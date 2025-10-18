@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T05:22:58.539543+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-10-19T06:24:59.940639+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -54,11 +54,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "苹果 iPhone 大量新机无法激活，客服称服务器正在修复，具体是怎么回事？你遇到这个情况了吗？",
@@ -67,11 +68,12 @@
           "ranks": [
             18,
             12,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 06时24分]"
         }
       ]
     },
@@ -88,8 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -98,11 +100,12 @@
           "ranks": [
             30,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时24分]"
         }
       ]
     },
@@ -118,8 +121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时24分]"
         }
       ]
     }
