@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T01:20:12.190587+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2025-10-19T02:34:28.863483+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     },
@@ -52,11 +53,12 @@
           "url": "https://wallstreetcn.com/articles/3757430",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -81,11 +83,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     },
@@ -101,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     }
