@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T03:19:22.710327+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-10-19T04:27:57.469819+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -39,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时27分]"
         }
       ]
     },
@@ -57,19 +57,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "苹果 iPhone 大量新机无法激活，客服称服务器正在修复，具体是怎么回事？你遇到这个情况了吗？",
           "url": "https://www.zhihu.com/question/1961379012464047778",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时27分]"
         }
       ]
     },
@@ -86,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -115,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时27分]"
         }
       ]
     }
