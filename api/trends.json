@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T14:37:58.129978+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2025-10-19T15:23:08.599828+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "ranks": [
             1,
             7,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 15时23分]"
         }
       ]
     },
@@ -78,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时23分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -138,8 +139,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时23分]"
+        },
+        {
+          "title": "金价为何下跌",
+          "url": "https://www.toutiao.com/trending/7562708312681090570/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 15时23分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -155,19 +169,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 10时09分]"
-        },
-        {
-          "title": "金价为何下跌",
-          "url": "https://www.toutiao.com/trending/7562708312681090570/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 13时38分]"
         }
       ]
     },
