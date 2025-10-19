@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T13:38:30.381219+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-10-19T14:37:58.129978+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 14时37分]"
         }
       ]
     },
@@ -77,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时37分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -102,8 +103,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 14时37分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -137,8 +138,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时37分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
