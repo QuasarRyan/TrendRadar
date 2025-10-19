@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T20:49:52.961594+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-10-19T21:29:28.987699+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "ranks": [
             2,
             7,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时29分]"
         },
         {
           "title": "金价涨了，印度人节日买金习惯变了",
@@ -73,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 21时29分]"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -152,8 +153,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时29分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
