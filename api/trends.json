@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T17:32:16.393600+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-10-20T18:29:34.545960+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -44,13 +44,35 @@
           "time_info": "16时34分"
         },
         {
+          "title": "Alphabet(GOOG.O)美股盘前涨幅收窄，最新上涨0.1%；美国国家公路交通安全管理局已启动对约2000辆Waymo车辆的初步评估。",
+          "url": "https://flash.jin10.com/detail/20251020180900012800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "波音(BA.N)美股盘前上涨1.4%，此前美国联邦航空管理局（FAA）表示，波音公司可将737 MAX的月产量提升至42架。",
+          "url": "https://flash.jin10.com/detail/20251020180758113800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "亚马逊美股盘前转跌，现跌0.21%。",
           "url": "https://wallstreetcn.com/livenews/2990560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -72,7 +94,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
@@ -80,7 +102,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -92,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 17时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 18时29分]"
         },
         {
           "title": "平台回应骑手取走苹果手机后失联",
@@ -105,8 +127,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 18时29分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。生猪涨超3%，焦煤涨超2%，焦炭、苹果、国际铜、沪铜、工业硅涨超1%。跌幅方面，沪银跌超3%，多晶硅、纯苯、苯乙烯跌近2%。",
@@ -132,6 +154,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "Evercore ISI：将苹果股票纳入战术性跑赢大盘名单。",
+          "url": "https://wallstreetcn.com/livenews/2990597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "Apple Music播放《孤勇者》闪退",
           "url": "https://www.toutiao.com/trending/7562358104961515566/",
           "source": "今日头条",
@@ -141,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "Evercore ISI：将苹果(AAPL.O)股票纳入战术跑赢名单。",
+          "url": "https://flash.jin10.com/detail/20251020174944532800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -196,8 +240,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 18时29分]"
         }
       ]
     },
