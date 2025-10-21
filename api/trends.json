@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T12:31:03.364046+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-10-21T13:27:32.391916+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 12时31分]"
-        },
-        {
-          "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4350美元，比特币涨超2%",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 13时27分]"
         },
         {
           "title": "【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高",
@@ -37,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -50,8 +39,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 13时27分]"
+        },
+        {
+          "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4350美元，比特币涨超2%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 05时24分]"
         },
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -78,17 +78,6 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
-          "title": "苹果股价站上新高 iPhone17“技术普惠”点燃换机潮 这些公司“实锤”进入供应链",
-          "url": "https://www.cls.cn/detail/2175274",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
           "title": "沉睡巨头苏醒！苹果股价暴涨创新高 iPhone热销扫阴霾",
           "url": "https://www.cls.cn/detail/2175031",
           "source": "财联社热门",
@@ -98,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 13时27分]"
         },
         {
           "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
@@ -111,6 +100,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "苹果股价站上新高 iPhone17“技术普惠”点燃换机潮 这些公司“实锤”进入供应链",
+          "url": "https://www.cls.cn/detail/2175274",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时27分]"
         },
         {
           "title": "分析师：苹果Siri 2.0与iPhone等产品布局将提振长期增长",
@@ -331,11 +332,12 @@
             12,
             13,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 12时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 13时27分]"
         },
         {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
@@ -344,11 +346,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 13时27分]"
         },
         {
           "title": "金价银价大反攻",
@@ -391,7 +394,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -450,6 +453,38 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1963642369963426172",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 11时15分]"
+        },
+        {
+          "title": "LG电子将与韩国航空宇宙产业（KAI）共同开发利用微型LED技术的下一代飞行模拟器。",
+          "url": "https://flash.jin10.com/detail/20251021130635713800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -478,27 +513,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1963642369963426172",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 11时15分]"
         }
       ]
     },
