@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T17:31:15.725609+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2025-10-21T18:30:09.672464+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时31分 ~ 17时31分]"
+          "appearance_count": 17,
+          "time_info": "[07时31分 ~ 18时30分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时30分 ~ 18时30分]"
         },
         {
           "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4350美元，比特币涨超2%",
@@ -73,11 +73,26 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 18时30分]"
+        },
+        {
+          "title": "“股神”也卖飞？苹果股价创新高 巴菲特错失500亿美元收益",
+          "url": "https://www.cls.cn/detail/2175446",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时30分 ~ 17时31分]"
+          "time_info": "[14时39分 ~ 18时30分]"
         },
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -102,20 +117,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时31分]"
-        },
-        {
-          "title": "“股神”也卖飞？苹果股价创新高 巴菲特错失500亿美元收益",
-          "url": "https://www.cls.cn/detail/2175446",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时39分 ~ 17时31分]"
         },
         {
           "title": "沉睡巨头苏醒！苹果股价暴涨创新高 iPhone热销扫阴霾",
@@ -152,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时31分]"
+        },
+        {
+          "title": "苹果翻大车,iOS26离谱Bug频出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超3.9%，和谷歌A创收盘历史新高",
@@ -214,7 +226,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -288,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时31分]"
+        },
+        {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
@@ -401,11 +424,12 @@
           "ranks": [
             22,
             21,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时39分 ~ 17时31分]"
+          "appearance_count": 9,
+          "time_info": "[14时39分 ~ 18时30分]"
         },
         {
           "title": "金价银价大反攻",
