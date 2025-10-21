@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T21:39:42.920352+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2025-10-21T22:26:48.737639+08:00",
+  "total_titles_processed": 1961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -20,28 +20,6 @@
           "time_info": "[00时34分 ~ 11时15分]"
         },
         {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2991288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美股期指集体走软，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
           "url": "https://wallstreetcn.com/articles/3757528",
           "source": "华尔街见闻",
@@ -50,8 +28,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时39分]"
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时26分]"
+        },
+        {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股期指集体走软，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时26分]"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2991288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时26分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）热门中概股行情一览（美股收盘）",
@@ -89,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时24分]"
+        },
+        {
+          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
+          "url": "https://wallstreetcn.com/livenews/2991282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时26分]"
         },
         {
           "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
@@ -174,24 +198,13 @@
           "time_info": "20时57分"
         },
         {
-          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
-          "url": "https://wallstreetcn.com/livenews/2991282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "美股开盘，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车(GM.N)大涨10%，公司三季度业绩超预期，并上调全年盈利指引。“人造肉第一股”BeyondMeat(BYND.O)开涨52%，据悉公司将在全美2000多家沃尔玛门店扩展分销。",
           "url": "https://flash.jin10.com/detail/20251021213058175800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -202,9 +215,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数走低，黄金ETF跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2991295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -287,7 +311,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高",
@@ -309,8 +333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时31分 ~ 21时39分]"
+          "appearance_count": 21,
+          "time_info": "[07时31分 ~ 22时26分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -375,8 +399,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时30分 ~ 21时39分]"
+          "appearance_count": 15,
+          "time_info": "[12时30分 ~ 22时26分]"
         },
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -416,6 +440,18 @@
           "time_info": "[09时59分 ~ 13时27分]"
         },
         {
+          "title": "苹果翻大车,iOS26离谱Bug频出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时26分]"
+        },
+        {
           "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
           "url": "https://wallstreetcn.com/livenews/2990825",
           "source": "华尔街见闻-快讯",
@@ -427,16 +463,15 @@
           "time_info": "04时31分"
         },
         {
-          "title": "苹果翻大车,iOS26离谱Bug频出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
-          "source": "贴吧",
+          "title": "苹果生态真的让用户离不开吗？",
+          "url": "https://www.zhihu.com/question/1962119480399331830",
+          "source": "知乎",
           "ranks": [
-            11,
-            13
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "分析师：苹果Siri 2.0与iPhone等产品布局将提振长期增长",
@@ -497,6 +532,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "苹果(AAPL.O)股价上涨0.8%，创下盘中历史新高，此前富国银行将其目标价从从245美元上调至290美元。",
+          "url": "https://flash.jin10.com/detail/20251021215425072800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "苹果股价创2025年首个盘中历史新高，受iPhone新机需求强劲推动",
           "url": "https://wallstreetcn.com/livenews/2990736",
           "source": "华尔街见闻-快讯",
@@ -511,7 +557,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -559,6 +605,18 @@
           "time_info": "[14时39分 ~ 19时23分]"
         },
         {
+          "title": "国际金价突然大跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时26分]"
+        },
+        {
           "title": "金价银价大反攻",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D9%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26realpos%3D8%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%2523%26display_time%3D1761011867%26pre_seqid%3D176101186724202299326117",
           "source": "微博",
@@ -571,17 +629,6 @@
           "time_info": "[09时59分 ~ 11时15分]"
         },
         {
-          "title": "国际金价突然大跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时39分]"
-        },
-        {
           "title": "金价大涨影响年轻人结婚",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A",
           "source": "百度热搜",
@@ -590,8 +637,19 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时26分]"
+        },
+        {
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D28%26flag%3D0%26pos%3D29%26stream_entry_id%3D31%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D28%26c_type%3D31%26display_time%3D1761053896%26pre_seqid%3D17610538960480229641103",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时39分]"
+          "time_info": "[21时39分 ~ 22时26分]"
         },
         {
           "title": "金价银价大反攻 黄金涨破4380美元",
@@ -603,6 +661,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "金价飙升引发投资潮 韩国银行金条供不应求",
@@ -647,17 +716,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "国际金价大跌原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D28%26flag%3D0%26pos%3D29%26stream_entry_id%3D31%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D28%26c_type%3D31%26display_time%3D1761053896%26pre_seqid%3D17610538960480229641103",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         }
       ]
     },
@@ -823,7 +881,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金周二盘初走高，价格突破4370美元/盎司，日内涨0.32%。",
@@ -836,6 +894,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时31分]"
+        },
+        {
+          "title": "现货金银价格深度回调，美股黄金概念股普遍下挫，科尔黛伦矿业(CDE.N)跌16.5%，金罗斯黄金(KGC.N)、哈莫尼黄金(HMY.N)跌约10%，金田(GFI.N)跌超9%，纽蒙特矿业(NEM.N)跌8.3%。",
+          "url": "https://flash.jin10.com/detail/20251021215932334800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     }
