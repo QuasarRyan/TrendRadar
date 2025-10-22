@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-22T13:27:04.707454+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-10-22T14:40:53.265727+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 14时40分]"
+        },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
           "url": "https://wallstreetcn.com/articles/3757563",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 06时24分]"
-        },
-        {
-          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -199,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 13时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 14时40分]"
         },
         {
           "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
@@ -208,11 +208,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 14时40分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -247,8 +248,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 14时40分]"
         },
         {
           "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
@@ -259,8 +260,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 14时40分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -288,6 +289,18 @@
           "time_info": "[07时25分 ~ 11时20分]"
         },
         {
+          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
+          "url": "https://www.cls.cn/detail/2176533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 14时40分]"
+        },
+        {
           "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
           "url": "https://www.cls.cn/detail/2176255",
           "source": "财联社热门",
@@ -309,17 +322,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 11时20分]"
-        },
-        {
-          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
-          "url": "https://www.cls.cn/detail/2176533",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "金价剧烈波动 普通投资者如何应对",
@@ -387,6 +389,19 @@
           "time_info": "[00时37分 ~ 07时26分]"
         },
         {
+          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
+          "url": "https://wallstreetcn.com/articles/3757538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 14时40分]"
+        },
+        {
           "title": "苹果翻大车,iOS26离谱Bug频出",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
           "source": "贴吧",
@@ -396,11 +411,12 @@
             18,
             19,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 13时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 14时40分]"
         },
         {
           "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
@@ -413,18 +429,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 06时24分]"
-        },
-        {
-          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
-          "url": "https://wallstreetcn.com/articles/3757538",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 13时27分]"
         },
         {
           "title": "苹果股价大涨 3.94% 创历史新高，超越微软成为美国第二大市值公司，驱动因素是什么？后续走势如何？",
