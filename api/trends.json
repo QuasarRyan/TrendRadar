@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T14:39:54.649775+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2025-10-23T15:27:56.836372+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时27分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 15时27分]"
         },
         {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 15时27分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -208,7 +208,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -269,11 +269,35 @@
           "ranks": [
             11,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 15时27分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）上海金午盘价为941.53元/克，较国际金价(943.31元/克)，低1.78元/克",
+          "url": "https://flash.jin10.com/detail/20251023150404201800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时27分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -301,18 +325,6 @@
           "time_info": "[11时09分 ~ 12时32分]"
         },
         {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时39分]"
-        },
-        {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
           "url": "https://wallstreetcn.com/livenews/2992304",
           "source": "华尔街见闻-快讯",
@@ -336,6 +348,17 @@
           "time_info": "[03时21分 ~ 03时22分]"
         },
         {
+          "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
+          "url": "https://flash.jin10.com/detail/20251023145502019800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美国财长贝森特：金价上涨对我们有很大帮助。",
           "url": "https://flash.jin10.com/detail/20251023041705567800",
           "source": "金十数据",
@@ -352,6 +375,20 @@
       "keyword_group": "苹果 Apple",
       "match_count": 10,
       "titles": [
+        {
+          "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
+          "url": "https://www.zhihu.com/question/1963899052065293121",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 15时27分]"
+        },
         {
           "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
           "url": "https://www.cls.cn/detail/2177335",
@@ -375,20 +412,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 09时56分]"
-        },
-        {
-          "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
-          "url": "https://www.zhihu.com/question/1963899052065293121",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 14时39分]"
         },
         {
           "title": "苹果M5芯片锐评",
