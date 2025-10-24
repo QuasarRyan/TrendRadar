@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T17:28:43.009664+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2025-10-24T18:32:02.295642+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[07时23分 ~ 18时32分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -283,11 +283,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时32分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
@@ -318,7 +319,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
