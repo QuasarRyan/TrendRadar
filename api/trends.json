@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T09:56:39.219634+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2025-10-25T11:09:50.880898+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,25 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时09分]"
+        },
+        {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 11时09分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -52,18 +66,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时56分]"
         },
         {
           "title": "美股收盘：三大股指齐创新高",
@@ -94,7 +96,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -133,9 +135,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时09分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -145,11 +147,12 @@
             7,
             14,
             15,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 09时56分]"
+          "appearance_count": 5,
+          "time_info": "[05时23分 ~ 11时09分]"
         }
       ]
     },
