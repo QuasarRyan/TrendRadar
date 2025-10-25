@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T21:28:39.283162+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2025-10-25T22:23:29.405566+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时23分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[07时23分 ~ 22时23分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -91,8 +91,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时23分]"
         },
         {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
@@ -153,8 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时56分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时56分 ~ 22时23分]"
         },
         {
           "title": "他带1650个苹果到抗美援朝烈士陵园",
@@ -162,11 +162,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时28分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
