@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T13:24:25.138427+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-10-25T14:36:36.528951+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             5,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -43,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 14时36分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -138,8 +139,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 14时36分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
