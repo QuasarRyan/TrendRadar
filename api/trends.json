@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T04:29:10.865642+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-10-26T05:21:51.232235+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时21分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时21分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -58,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时21分]"
         },
         {
           "title": "男子带1650个苹果到抗美援朝烈士陵园",
@@ -68,11 +68,12 @@
           "ranks": [
             24,
             29,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 05时21分]"
         }
       ]
     }
