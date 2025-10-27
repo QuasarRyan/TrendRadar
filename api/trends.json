@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T02:37:41.799778+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-10-28T03:21:46.151537+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时21分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -66,8 +66,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时21分]"
         }
       ]
     },
@@ -98,11 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时21分]"
         }
       ]
     }
