@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T12:33:04.670110+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-10-28T13:27:39.891707+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时27分]"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -198,7 +199,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         }
@@ -216,8 +217,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 13时27分]"
+        },
+        {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 13时27分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -231,17 +243,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时21分]"
-        },
-        {
-          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
-          "url": "https://wallstreetcn.com/articles/3758018",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
         },
         {
           "title": "金价",
