@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T12:35:25.755345+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-10-29T13:28:29.826689+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时37分 ~ 07时26分]"
         },
         {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 13时28分]"
+        },
+        {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
@@ -29,19 +42,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 10时07分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时26分 ~ 12时35分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
@@ -187,8 +187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 13时28分]"
         },
         {
           "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
@@ -343,11 +343,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时28分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
