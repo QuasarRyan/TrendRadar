@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T07:26:13.010855+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2025-10-29T10:07:03.767122+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时07分]"
         },
         {
           "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 07时26分]"
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 10时07分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
@@ -116,6 +117,17 @@
           "time_info": "[05时26分 ~ 06时26分]"
         },
         {
+          "title": "美股三大股指续创新高 英伟达涨近5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251029005409163800",
           "source": "金十数据",
@@ -163,7 +175,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -174,8 +186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时07分]"
         },
         {
           "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
@@ -209,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "韩国科学部：美国与韩国签署技术繁荣谅解备忘录，包括加快人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20251029091423779800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -266,11 +289,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时07分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -281,11 +305,12 @@
             21,
             14,
             13,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时07分]"
         },
         {
           "title": "金价银价暴跌原因",
@@ -304,11 +329,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26lcate%3D5001%26realpos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26cate%3D5001%26dgr%3D0%26pos%3D28%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761693616%26pre_seqid%3D17616936161180346969155",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 10时07分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
@@ -317,7 +343,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
