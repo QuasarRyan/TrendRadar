@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T13:28:29.826689+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-10-29T14:40:41.129803+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[06时26分 ~ 14时40分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -187,8 +187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时40分]"
         },
         {
           "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
@@ -326,6 +326,19 @@
           "time_info": "[02时39分 ~ 03时21分]"
         },
         {
+          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
+          "url": "https://www.cls.cn/detail/2184251",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时40分]"
+        },
+        {
           "title": "金价暴跌有投资者打算割肉离场",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26lcate%3D5001%26realpos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26cate%3D5001%26dgr%3D0%26pos%3D28%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761693616%26pre_seqid%3D17616936161180346969155",
           "source": "微博",
@@ -336,19 +349,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时25分 ~ 10时07分]"
-        },
-        {
-          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
-          "url": "https://www.cls.cn/detail/2184251",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时28分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
