@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:27:41.395810+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-10-31T14:40:13.698819+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时40分]"
         },
         {
           "title": "苹果CEO库克：第一财季营收将是公司历史上最好的一个季度，iPhone也将是那样。",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时40分]"
         },
         {
           "title": "纳指期货亚太盘初涨1.2%，业绩报告发布后，亚马逊涨超13%，苹果涨3%",
@@ -138,18 +151,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时01分 ~ 13时27分]"
-        },
-        {
-          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时27分]"
         },
         {
           "title": "第四财季，苹果(AAPL.O)iPhone收入为490.25亿美元；Mac业务收入87.3亿美元，超过预期；可穿戴设备、家庭及配件业务收入达90.1亿美元，超过预期；服务收入为287.5亿美元。",
