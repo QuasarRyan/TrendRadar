@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-31T15:26:45.379870+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-10-31T16:35:33.251598+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 15时26分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 16时35分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -25,11 +26,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时35分]"
         },
         {
           "title": "苹果CEO库克：第一财季营收将是公司历史上最好的一个季度，iPhone也将是那样。",
@@ -285,6 +287,17 @@
           "time_info": "[05时24分 ~ 06时25分]"
         },
         {
+          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2997557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
           "url": "https://flash.jin10.com/detail/20251031043456886800",
           "source": "金十数据",
@@ -305,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "李在镕出席活动感慨现场苹果手机多",
+          "url": "https://www.toutiao.com/trending/7566378143742476294/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：预计在本财年第一季度整体销售额将同比增长10%至12%。",
@@ -393,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "苹果(AAPL.O)盘前涨2.55%，公司预计假日季营收将实现两位数增长。",
+          "url": "https://flash.jin10.com/detail/20251031160046988800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
