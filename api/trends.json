@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T02:38:00.419887+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2025-11-01T03:21:48.669823+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时21分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时21分]"
         },
         {
           "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
           "url": "https://wallstreetcn.com/articles/3758419",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 03时21分]"
         },
         {
           "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
@@ -47,7 +48,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         }
@@ -65,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时21分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
