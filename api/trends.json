@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T12:28:54.663495+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2025-11-01T13:26:43.107158+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 12时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 13时26分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时26分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -73,6 +73,19 @@
           "time_info": "[04时29分 ~ 10时03分]"
         },
         {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时26分]"
+        },
+        {
           "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
           "url": "https://flash.jin10.com/detail/20251101040052519800",
           "source": "金十数据",
@@ -83,19 +96,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时24分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 12时28分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
