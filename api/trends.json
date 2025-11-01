@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T13:26:43.107158+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2025-11-01T14:37:22.196489+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             7,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时37分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时37分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -48,16 +61,18 @@
           "time_info": "[04时29分 ~ 10时03分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
           "ranks": [
+            9,
+            5,
             6,
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时37分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -71,19 +86,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时29分 ~ 10时03分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时26分]"
         },
         {
           "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
