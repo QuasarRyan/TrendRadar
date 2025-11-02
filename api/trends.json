@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T13:26:22.807561+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2025-11-02T14:37:15.999843+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             14,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时37分]"
         },
         {
           "title": "黄金税收公告发布是否会影响金价",
@@ -103,11 +104,12 @@
           "ranks": [
             2,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时37分]"
         }
       ]
     },
