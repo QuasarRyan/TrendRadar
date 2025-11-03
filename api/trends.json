@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T12:35:10.243466+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2025-11-03T13:28:35.777294+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 13时28分]"
         }
       ]
     },
@@ -69,11 +70,12 @@
           "source": "微博",
           "ranks": [
             22,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时28分]"
         },
         {
           "title": "国际金价再现断崖式下跌",
