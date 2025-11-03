@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T13:28:35.777294+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-11-03T14:41:15.837061+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,20 @@
           "time_info": "[00时30分 ~ 07时22分]"
         },
         {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时41分]"
+        },
+        {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
           "url": "https://flash.jin10.com/detail/20251103070259111800",
           "source": "金十数据",
@@ -44,19 +58,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 13时28分]"
         }
       ]
     },
