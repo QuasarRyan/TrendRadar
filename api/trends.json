@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T15:27:00.535462+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-11-03T16:38:16.921327+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "北美地区冬令时 美股延至22:30开盘",
+          "url": "https://flash.jin10.com/detail/20251103160624228800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
@@ -85,7 +96,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -117,6 +128,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
+          "url": "https://flash.jin10.com/detail/20251103162225875800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     }
