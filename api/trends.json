@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T14:41:15.837061+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2025-11-03T15:27:00.535462+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 15时27分]"
         },
         {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
@@ -63,7 +63,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时07分 ~ 13时28分]"
+        },
+        {
+          "title": "金十图示：2025年11月03日（周一）上海金午盘价为919.45元/克，较国际金价(919.53元/克)，低0.08元/克",
+          "url": "https://flash.jin10.com/detail/20251103150150080800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "国际金价再现断崖式下跌",
