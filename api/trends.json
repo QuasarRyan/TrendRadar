@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T12:31:20.209658+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-11-04T13:27:27.957350+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 13时27分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -224,11 +225,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 13时27分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
@@ -346,7 +348,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
@@ -385,8 +387,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 12时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时27分]"
         }
       ]
     }
