@@ -1,8 +1,59 @@
 {
-  "generated_at": "2025-11-05T00:32:47.007110+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-05T01:22:59.678632+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
+          "url": "https://flash.jin10.com/detail/20251105005734821800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
+          "url": "https://www.cls.cn/detail/2190882",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
+        },
+        {
+          "title": "苹果准备推出低成本笔记本电脑，抗衡Chromebook和Windows PC",
+          "url": "https://wallstreetcn.com/livenews/2999327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "Meta Platforms：为苹果公司Apple Watch推出WhatsApp。",
+          "url": "https://wallstreetcn.com/livenews/2999287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -12,22 +63,24 @@
           "url": "https://wallstreetcn.com/articles/3758543",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2191076",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
@@ -35,34 +88,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
-          "url": "https://www.cls.cn/detail/2190882",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "Meta Platforms：为苹果公司Apple Watch推出WhatsApp。",
-          "url": "https://wallstreetcn.com/livenews/2999287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -82,8 +107,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         }
       ]
     },
