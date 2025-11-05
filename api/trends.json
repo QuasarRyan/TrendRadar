@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T21:40:40.821675+08:00",
-  "total_titles_processed": 1915,
+  "generated_at": "2025-11-05T22:29:13.390224+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时26分 ~ 21时40分]"
+          "appearance_count": 19,
+          "time_info": "[07时26分 ~ 22时29分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -259,6 +259,17 @@
           "time_info": "17时30分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "超微电脑(SMCI.O)美股盘前跌超8%，公司第一季度营收低于预期。",
           "url": "https://flash.jin10.com/detail/20251105170437887800",
           "source": "金十数据",
@@ -268,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
@@ -367,6 +389,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普呼吁结束政府停摆 并直言美股屡创新高仅是开端",
+          "url": "https://flash.jin10.com/detail/20251105214713212800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-05）",
+          "url": "https://flash.jin10.com/detail/20251105214658539800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
@@ -382,8 +426,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
@@ -398,6 +442,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "苹果回应iPhone面容解锁不用摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D10%26lcate%3D5001%26flag%3D1%26band_rank%3D10%26filter_type%3Drealtimehot%26pos%3D10%26cate%3D5001%26dgr%3D0%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%259B%259E%25E5%25BA%2594iPhone%25E9%259D%25A2%25E5%25AE%25B9%25E8%25A7%25A3%25E9%2594%2581%25E4%25B8%258D%25E7%2594%25A8%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%2523%26display_time%3D1762338478%26pre_seqid%3D17623384785570342494726&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 22时29分]"
         },
         {
           "title": "Apple高管谈如何做编程教育",
@@ -422,20 +480,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时03分 ~ 14时39分]"
-        },
-        {
-          "title": "苹果回应iPhone面容解锁不用摄像头",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D10%26lcate%3D5001%26flag%3D1%26band_rank%3D10%26filter_type%3Drealtimehot%26pos%3D10%26cate%3D5001%26dgr%3D0%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%259B%259E%25E5%25BA%2594iPhone%25E9%259D%25A2%25E5%25AE%25B9%25E8%25A7%25A3%25E9%2594%2581%25E4%25B8%258D%25E7%2594%25A8%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%2523%26display_time%3D1762338478%26pre_seqid%3D17623384785570342494726&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时30分 ~ 21时40分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
@@ -506,11 +550,12 @@
           "url": "https://wallstreetcn.com/livenews/2999928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时29分]"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次",
@@ -658,7 +703,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
@@ -670,6 +715,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时30分 ~ 21时40分]"
+        },
+        {
+          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
