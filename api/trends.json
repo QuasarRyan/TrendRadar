@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-11-05T13:28:13.413508+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-11-05T14:39:44.656325+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
+        {
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 14时39分]"
+        },
+        {
+          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2191216",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 14时39分]"
+        },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
           "url": "https://wallstreetcn.com/articles/3758543",
@@ -20,27 +43,18 @@
           "time_info": "[00时32分 ~ 06时25分]"
         },
         {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
+          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/1969182296755122552",
+          "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 13时28分]"
-        },
-        {
-          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2191216",
-          "source": "财联社热门",
-          "ranks": [
-            4,
+            6,
+            5,
+            3,
             2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时26分 ~ 13时28分]"
+          "time_info": "[10时03分 ~ 14时39分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -58,19 +72,6 @@
           "time_info": "[00时32分 ~ 11时48分]"
         },
         {
-          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
-          "url": "https://www.zhihu.com/question/1969182296755122552",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 13时28分]"
-        },
-        {
           "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
           "url": "https://www.cls.cn/detail/2191349",
           "source": "财联社热门",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时39分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -293,8 +294,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 14时39分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
