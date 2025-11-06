@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T11:53:28.515842+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2025-11-06T12:35:21.675234+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时35分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -91,6 +91,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时26分]"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时35分]"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
@@ -151,18 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时22分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时53分]"
         },
         {
           "title": "Metsera美股盘后涨6.8%。",
@@ -312,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时35分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
