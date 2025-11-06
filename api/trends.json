@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T20:55:12.966609+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-11-06T21:38:02.027503+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
@@ -274,7 +274,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Apple高管谈如何做编程教育",
@@ -332,11 +332,23 @@
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 21时38分]"
+        },
+        {
+          "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
+          "url": "https://www.zhihu.com/question/1969525122005164073",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
@@ -386,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时02分 ~ 20时55分]"
+          "appearance_count": 16,
+          "time_info": "[10时02分 ~ 21时38分]"
         },
         {
           "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
@@ -508,11 +520,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 21时38分]"
         },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
