@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T16:37:17.497653+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2025-11-06T17:30:42.130013+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -68,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 17时30分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -283,11 +294,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26lcate%3D5001%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%2596%258A%25E8%25AF%259DiPhone13%25E5%2592%258C14%25E7%2594%25A8%25E6%2588%25B7%25E6%258D%25A2%25E6%2596%25B0%25E6%259C%25BA%2523%26band_rank%3D11%26pos%3D11%26filter_type%3Drealtimehot%26dgr%3D0%26realpos%3D11%26display_time%3D1762418100%26pre_seqid%3D176241810062404332355&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时30分]"
         },
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
@@ -333,11 +345,12 @@
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 17时30分]"
         },
         {
           "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
