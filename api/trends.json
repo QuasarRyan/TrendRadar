@@ -1,111 +1,22 @@
 {
-  "generated_at": "2025-11-07T23:28:06.989861+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2025-11-08T00:30:22.057798+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2193628",
-          "source": "财联社热门",
+          "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3001323",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 15时26分]"
-        },
-        {
-          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
-          "url": "https://www.cls.cn/detail/2193592",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时26分 ~ 15时26分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2193483",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 10时00分]"
-        },
-        {
-          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
-          "url": "https://wallstreetcn.com/articles/3758813",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时00分 ~ 17时28分]"
-        },
-        {
-          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
-          "url": "https://flash.jin10.com/detail/20251107180537622800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3000778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时24分]"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251107050525569800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3001278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 23时28分]"
+          "time_info": "00时30分"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -115,355 +26,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时28分]"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251107050522071800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 英伟达跌超3%",
-          "url": "https://flash.jin10.com/detail/20251107050145353800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时28分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
-          "url": "https://flash.jin10.com/detail/20251107055709083800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘前上涨2.4%，此前马斯克表示值得与该公司进行讨论。",
-          "url": "https://flash.jin10.com/detail/20251107170531468800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251107170234164800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "00时30分"
         },
         {
           "title": "行业ETF美股盘初普跌，半导体ETF跌1.3%",
           "url": "https://wallstreetcn.com/livenews/3001288",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3000764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美国10月裁员人数同比大增175%，芝加哥联储数据显示10月失业率创四年新高，就业市场已现危机信号；美联储官员继续保持谨慎，古尔斯比、哈马克接连反对降息……当前黄金多头持续占优，美股纳指呈强烈卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251107103507218800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-07）",
-          "url": "https://flash.jin10.com/detail/20251107214841680800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
-          "url": "https://flash.jin10.com/detail/20251107114842148800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3000758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
-          "url": "https://wallstreetcn.com/livenews/3001114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251107224624350800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251107013137479800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251107013117259800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/3000620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "爱彼迎三季度营收41亿美元，分析师预期40.8亿美元。 三季度调整后EBITDA利润率50%，分析师预期49.9%。 三季度总体预定价值229亿美元，分析师预期221.3亿美元。 预计全年调整后EBITDA利润率35%，公司原本预计至少34.5%。 预计四季度营收26.6亿-27.2亿美元，分析师预期26.7亿美元。 爱彼迎（ABNB）美股盘后涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3000744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
-          "url": "https://www.zhihu.com/question/1969525122005164073",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 10时00分]"
-        },
-        {
-          "title": "苹果喊话iPhone13和14用户换新机",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            20,
-            22,
-            12,
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时24分]"
-        },
-        {
-          "title": "坚持喝煮苹果水身体会发生什么",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E5%259D%259A%25E6%258C%2581%25E5%2596%259D%25E7%2585%25AE%25E8%258B%25B9%25E6%259E%259C%25E6%25B0%25B4%25E8%25BA%25AB%25E4%25BD%2593%25E4%25BC%259A%25E5%258F%2591%25E7%2594%259F%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26realpos%3D23%26pos%3D23%26band_rank%3D23%26display_time%3D1762507643%26pre_seqid%3D17625076431090244529462&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            23,
-            24,
-            26,
-            25,
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时27分 ~ 22时26分]"
-        },
-        {
-          "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
-          "url": "https://flash.jin10.com/detail/20251107120411653800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时26分]"
-        },
-        {
-          "title": "苹果公司：已解决Apple TV和Apple Arcade的服务中断问题。",
-          "url": "https://wallstreetcn.com/livenews/3000971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时39分]"
-        },
-        {
-          "title": "苹果移动应用创新赛专访",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%88%9B%E6%96%B0%E8%B5%9B%E4%B8%93%E8%AE%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "苹果：已解决 Apple TV 和 Apple Arcade 的服务中断问题。",
-          "url": "https://flash.jin10.com/detail/20251107125428173800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "商品期货收盘，碳酸锂主力合约涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3001033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "据网络状况监测网站DownDetector：截至美国东部时间晚上10:34，美国有14,907名用户报告Apple TV服务中断。",
-          "url": "https://flash.jin10.com/detail/20251107115143059800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "据网络状况监测网站DownDetector：用户报告Apple TV在美国出现故障。",
-          "url": "https://flash.jin10.com/detail/20251107114903648800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌互现，碳酸锂涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。跌幅方面，沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251107150035567800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -473,241 +65,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时00分 ~ 23时28分]"
-        },
-        {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时24分]"
-        },
-        {
-          "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时27分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "00时30分"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
           "url": "https://wallstreetcn.com/livenews/3001303",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
-          "url": "https://wallstreetcn.com/livenews/3000653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时26分]"
-        },
-        {
-          "title": "10年期美债收益率跌7个基点，投资者关注疲软的美国就业数据",
-          "url": "https://wallstreetcn.com/livenews/3000730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
-          "url": "https://wallstreetcn.com/livenews/3000636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 17时28分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7,
-            6,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 11时19分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29,
-            25,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时24分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "金价“冲高回落”，投资者关注美联储利率前景",
-          "url": "https://wallstreetcn.com/livenews/3000762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）上海金早盘价为916.35元/克，较国际金价(915.25元/克)，高1.1元/克",
-          "url": "https://flash.jin10.com/detail/20251107102416175800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数DXY短线走低十余点，现报99.41。",
-          "url": "https://flash.jin10.com/detail/20251107230621759800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "美元指数下跌0.5%",
-          "url": "https://wallstreetcn.com/livenews/3000729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美元指数6日下跌",
-          "url": "https://flash.jin10.com/detail/20251107052956396800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
-          "url": "https://www.cls.cn/detail/2193935",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 20时54分]"
-        },
-        {
-          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
-          "url": "https://wallstreetcn.com/livenews/3001120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时29分]"
+          "time_info": "00时30分"
         }
       ]
     }
