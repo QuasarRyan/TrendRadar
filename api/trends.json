@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:22:51.410268+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-11-07T20:54:12.362863+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
@@ -293,11 +293,12 @@
           "source": "微博",
           "ranks": [
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 20时54分]"
         },
         {
           "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
@@ -403,8 +404,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时00分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[10时00分 ~ 20时54分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -574,8 +575,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 20时54分]"
         },
         {
           "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
