@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T18:29:18.606304+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2025-11-07T19:22:51.410268+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -292,11 +292,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E5%259D%259A%25E6%258C%2581%25E5%2596%259D%25E7%2585%25AE%25E8%258B%25B9%25E6%259E%259C%25E6%25B0%25B4%25E8%25BA%25AB%25E4%25BD%2593%25E4%25BC%259A%25E5%258F%2591%25E7%2594%259F%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26realpos%3D23%26pos%3D23%26band_rank%3D23%26display_time%3D1762507643%26pre_seqid%3D17625076431090244529462&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时22分]"
         },
         {
           "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
@@ -402,8 +403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时00分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时00分 ~ 19时22分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -573,8 +574,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 19时22分]"
         },
         {
           "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
