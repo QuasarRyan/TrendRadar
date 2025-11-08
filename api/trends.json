@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:25:26.908523+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-11-08T14:37:21.530682+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 13时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 14时37分]"
         },
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时37分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -99,11 +99,12 @@
           "ranks": [
             11,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 14时37分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -221,8 +222,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时37分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
