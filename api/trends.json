@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T02:38:08.107078+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-11-11T03:22:25.253157+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时22分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时22分]"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -48,7 +49,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -77,6 +78,46 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果推迟发布下一代iPhone Air。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3002301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3002239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时25分]"
+        },
+        {
+          "title": "苹果界有自己的小甜心",
+          "url": "https://www.douyin.com/hot/2301389",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -86,11 +127,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 03时22分]"
         },
         {
           "title": "金价大涨但黄金首饰难卖了",
@@ -98,11 +140,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时22分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
@@ -111,24 +154,6 @@
           "ranks": [
             9,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3002239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -150,6 +175,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "近30年全球央行黄金持有首次超美债",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     }
