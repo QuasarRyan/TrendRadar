@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T10:06:56.350131+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-11-10T11:55:57.303950+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 11时55分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -28,18 +29,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -64,6 +54,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
+          "url": "https://flash.jin10.com/detail/20251110110230223800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26realpos%3D22%26lcate%3D5001%26cate%3D5001%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26band_rank%3D22%26display_time%3D1762746850%26pre_seqid%3D1762746850023099744875&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最好吃的苹果方式",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%96%B9%E5%BC%8F&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26realpos%3D26%26lcate%3D5001%26cate%3D5001%26pos%3D26%26q%3D%25E6%259C%2580%25E5%25A5%25BD%25E5%2590%2583%25E7%259A%2584%25E8%258B%25B9%25E6%259E%259C%25E6%2596%25B9%25E5%25BC%258F%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26band_rank%3D26%26display_time%3D1762746850%26pre_seqid%3D1762746850023099744875&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     }
