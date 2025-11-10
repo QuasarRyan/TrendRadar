@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T13:27:49.967448+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-11-10T14:41:36.313988+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 13时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时41分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -28,11 +28,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 14时41分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -73,11 +74,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时41分]"
         }
       ]
     },
@@ -124,8 +126,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 14时41分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
