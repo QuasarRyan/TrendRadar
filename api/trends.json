@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T12:36:09.661164+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2025-11-10T13:27:49.967448+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 13时27分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 13时27分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -72,11 +72,12 @@
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时27分]"
         }
       ]
     },
@@ -90,11 +91,12 @@
           "source": "微博",
           "ranks": [
             26,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 13时27分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂涨超6%，沪银涨超2%，苹果、沪金、工业硅、PX涨超1%；跌幅方面，玻璃跌超3%，集运欧线跌近2%，焦煤、焦炭、沥青跌超1%。",
@@ -103,7 +105,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -118,11 +120,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26realpos%3D22%26lcate%3D5001%26cate%3D5001%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26band_rank%3D22%26display_time%3D1762746850%26pre_seqid%3D1762746850023099744875&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 13时27分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
