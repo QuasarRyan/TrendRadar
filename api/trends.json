@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T16:35:10.664960+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2025-11-11T17:29:51.131598+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -459,6 +459,18 @@
           "time_info": "15时27分"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时29分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
           "url": "https://wallstreetcn.com/livenews/3002234",
           "source": "华尔街见闻-快讯",
@@ -469,17 +481,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
