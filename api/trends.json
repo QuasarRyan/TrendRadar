@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T15:27:17.922450+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2025-11-11T16:35:10.664960+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,20 @@
           "time_info": "[07时25分 ~ 15时27分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 16时35分]"
+        },
+        {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
@@ -57,19 +71,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 07时25分]"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时27分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -364,7 +365,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -397,7 +398,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
@@ -405,7 +406,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -453,7 +454,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -468,6 +469,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时25分]"
+        },
+        {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
