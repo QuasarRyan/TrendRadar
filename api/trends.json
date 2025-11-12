@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:32:15.602636+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2025-11-12T13:28:01.945683+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 13时28分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -128,8 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 13时28分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -290,8 +290,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 13时28分]"
         }
       ]
     }
