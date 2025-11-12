@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T14:39:52.141749+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-11-12T15:27:09.957936+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -129,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 14时39分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 15时27分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -291,8 +291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 14时39分]"
+          "appearance_count": 11,
+          "time_info": "[07时25分 ~ 15时27分]"
         }
       ]
     }
