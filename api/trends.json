@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T01:26:28.453950+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-11-13T02:36:28.727700+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时36分]"
         },
         {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时36分]"
         },
         {
           "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
@@ -47,7 +47,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -77,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时36分]"
         },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -89,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时36分]"
         },
         {
           "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
