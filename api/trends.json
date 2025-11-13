@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T13:28:10.937882+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2025-11-13T14:40:09.730875+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时25分 ~ 14时40分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -103,7 +103,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -116,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 13时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 14时40分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 12时32分]"
+        },
+        {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "大哥路边卖苹果摆得整整齐齐",
