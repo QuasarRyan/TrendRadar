@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T01:27:00.517554+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-11-14T02:38:12.531352+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时38分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时38分]"
         },
         {
           "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
@@ -47,11 +48,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D30%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26dgr%3D0%26cate%3D5001%26pos%3D29%26realpos%3D30%26stream_entry_id%3D31%26display_time%3D1763054246%26pre_seqid%3D17630542468640112969424&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 02时38分]"
         }
       ]
     },
@@ -65,11 +67,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时38分]"
         },
         {
           "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
