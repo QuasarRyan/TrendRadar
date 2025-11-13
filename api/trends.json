@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T18:31:37.571938+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2025-11-13T19:24:52.878215+08:00",
+  "total_titles_processed": 1729,
   "failed_sources": [],
   "trends": [
     {
@@ -18,17 +18,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[07时25分 ~ 16时35分]"
-        },
-        {
-          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
-          "url": "https://wallstreetcn.com/livenews/3004108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -52,6 +41,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时26分]"
+        },
+        {
+          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
@@ -95,7 +96,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -128,7 +129,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -139,7 +140,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -150,7 +151,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -161,7 +162,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
@@ -169,7 +170,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -204,11 +205,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时24分]"
         },
         {
           "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
@@ -232,6 +234,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
+          "url": "https://wallstreetcn.com/livenews/3004146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
+          "url": "https://flash.jin10.com/detail/20251113190559735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
@@ -347,7 +371,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -369,7 +393,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
@@ -377,7 +401,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -425,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美债波动率指数跳升至一个月高点 政府停摆结束并未终止不确定性",
+          "url": "https://flash.jin10.com/detail/20251113185757938800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
