@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T21:40:04.538556+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2025-11-13T22:26:15.778991+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 21时40分]"
+          "appearance_count": 11,
+          "time_info": "[16时35分 ~ 22时26分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -46,6 +46,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时37分 ~ 07时26分]"
+        },
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 22时26分]"
         },
         {
           "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
@@ -71,17 +83,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "腾讯回应与苹果达成小程序游戏支付协议：在某个时间点，可能会有官方的公告",
-          "url": "https://wallstreetcn.com/livenews/3004217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
           "url": "https://flash.jin10.com/detail/20251113190559735800",
           "source": "金十数据",
@@ -91,17 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
-        },
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 21时40分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
@@ -128,6 +118,18 @@
           "time_info": "[19时24分 ~ 20时58分]"
         },
         {
+          "title": "腾讯回应与苹果达成小程序游戏支付协议：在某个时间点，可能会有官方的公告",
+          "url": "https://wallstreetcn.com/livenews/3004217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时26分]"
+        },
+        {
           "title": "大哥路边卖苹果摆得整整齐齐",
           "url": "https://www.toutiao.com/trending/7571416741918752810/",
           "source": "今日头条",
@@ -138,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 03时23分]"
+        },
+        {
+          "title": "苹果(AAPL.O)拒绝就英国法庭对应用商店佣金的裁决提起上诉。",
+          "url": "https://flash.jin10.com/detail/20251113220846207800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
@@ -179,7 +192,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -198,7 +211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -316,6 +329,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3003743",
           "source": "华尔街见闻-快讯",
@@ -344,7 +368,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -521,7 +545,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -557,6 +581,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "迪士尼(DIS.N)CEO：正寻求保护创意内容，并利用人工智能技术与消费者互动。",
+          "url": "https://flash.jin10.com/detail/20251113221100451800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
