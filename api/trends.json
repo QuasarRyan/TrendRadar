@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-14T13:27:45.280481+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2025-11-14T14:39:42.013691+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时26分 ~ 14时39分]"
+        },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
           "url": "https://wallstreetcn.com/articles/3759298",
@@ -22,19 +36,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 13时27分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -222,8 +223,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 14时39分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -240,17 +241,6 @@
           "time_info": "[00时32分 ~ 10时02分]"
         },
         {
-          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
-          "url": "https://flash.jin10.com/detail/20251114034042642800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
           "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
           "source": "澎湃新闻",
@@ -260,8 +250,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 14时39分]"
+        },
+        {
+          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
+          "url": "https://flash.jin10.com/detail/20251114034042642800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
