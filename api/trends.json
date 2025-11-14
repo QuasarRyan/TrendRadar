@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T12:31:05.072981+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2025-11-14T13:27:45.280481+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时26分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 13时27分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -222,8 +222,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 12时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 13时27分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -249,6 +249,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 13时27分]"
         },
         {
           "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
@@ -299,16 +312,16 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
+          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
+          "url": "https://www.cls.cn/detail/2200223",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            9
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时02分 ~ 12时31分]"
+          "time_info": "[11时49分 ~ 13时27分]"
         },
         {
           "title": "苹果腾讯敲定微信游戏抽成协议",
@@ -321,18 +334,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 02时38分]"
-        },
-        {
-          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
-          "url": "https://www.cls.cn/detail/2200223",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时31分]"
         },
         {
           "title": "苹果AppleStore全新图标上线",
