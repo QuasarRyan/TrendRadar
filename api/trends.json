@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T16:35:16.022696+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2025-11-14T17:29:49.147548+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 16时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时29分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -46,19 +46,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 16时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 17时29分]"
         },
         {
           "title": "苹果首次调整内地“苹果税”抽成 微信随即跟进 减免15%抽成为App生态带来哪些变化？",
           "url": "https://www.cls.cn/detail/2200797",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时29分]"
         },
         {
           "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
