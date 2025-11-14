@@ -1,8 +1,216 @@
 {
-  "generated_at": "2025-11-14T15:26:43.400710+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2025-11-14T16:35:16.022696+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 16时35分]"
+        },
+        {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时02分]"
+        },
+        {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 16时35分]"
+        },
+        {
+          "title": "苹果首次调整内地“苹果税”抽成 微信随即跟进 减免15%抽成为App生态带来哪些变化？",
+          "url": "https://www.cls.cn/detail/2200797",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
+          "url": "https://flash.jin10.com/detail/20251114034042642800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3004284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时27分]"
+        },
+        {
+          "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
+          "url": "https://wallstreetcn.com/livenews/3004409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114113058283800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时31分]"
+        },
+        {
+          "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
+          "url": "https://flash.jin10.com/detail/20251114060338341800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
+          "url": "https://www.cls.cn/detail/2200223",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 13时27分]"
+        },
+        {
+          "title": "苹果腾讯敲定微信游戏抽成协议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D30%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26dgr%3D0%26cate%3D5001%26pos%3D29%26realpos%3D30%26stream_entry_id%3D31%26display_time%3D1763054246%26pre_seqid%3D17630542468640112969424&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 02时38分]"
+        },
+        {
+          "title": "苹果AppleStore全新图标上线",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9CAppleStore%E5%85%A8%E6%96%B0%E5%9B%BE%E6%A0%87%E4%B8%8A%E7%BA%BF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D9%26band_rank%3D8%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26realpos%3D8%26cate%3D5001%26q%3D%2523%25E8%258B%25B9%25E6%259E%259CAppleStore%25E5%2585%25A8%25E6%2596%25B0%25E5%259B%25BE%25E6%25A0%2587%25E4%25B8%258A%25E7%25BA%25BF%2523%26display_time%3D1763085595%26pre_seqid%3D17630855955800113706031&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。苹果、豆一涨超2%，苯乙烯（EB）、瓶片、PTA、液化石油气（LPG）、原木、乙二醇（EG）涨超1%；跌幅方面，甲醇跌超2%，玻璃、沪锡、焦煤、碳酸锂、工业硅、沪镍、集运欧线跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114150046623800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "商品期货收盘，苹果、豆一主力合约涨超2%，瓶片、苯乙烯、PTA、乙二醇、原木、液化气涨超1%。甲醇跌超2%，玻璃、焦煤、沪锡、工业硅、沪镍、集运欧线、碳酸锂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3004656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
+          "url": "https://wallstreetcn.com/livenews/3004415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "苹果(AAPL.O)：所有美国职业足球大联盟比赛将向Apple TV订阅用户免费提供流媒体服务，无需额外付费。",
+          "url": "https://flash.jin10.com/detail/20251114053244385800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
+          "url": "https://flash.jin10.com/detail/20251114061331126800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 17,
@@ -210,202 +418,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 10时02分]"
-        },
-        {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 15时26分]"
-        },
-        {
-          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
-          "url": "https://flash.jin10.com/detail/20251114034042642800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3004284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时27分]"
-        },
-        {
-          "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
-          "url": "https://wallstreetcn.com/livenews/3004409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251114113058283800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时31分]"
-        },
-        {
-          "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
-          "url": "https://flash.jin10.com/detail/20251114060338341800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
-          "url": "https://www.cls.cn/detail/2200223",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 13时27分]"
-        },
-        {
-          "title": "苹果腾讯敲定微信游戏抽成协议",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D30%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26dgr%3D0%26cate%3D5001%26pos%3D29%26realpos%3D30%26stream_entry_id%3D31%26display_time%3D1763054246%26pre_seqid%3D17630542468640112969424&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 02时38分]"
-        },
-        {
-          "title": "苹果AppleStore全新图标上线",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9CAppleStore%E5%85%A8%E6%96%B0%E5%9B%BE%E6%A0%87%E4%B8%8A%E7%BA%BF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D9%26band_rank%3D8%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26realpos%3D8%26cate%3D5001%26q%3D%2523%25E8%258B%25B9%25E6%259E%259CAppleStore%25E5%2585%25A8%25E6%2596%25B0%25E5%259B%25BE%25E6%25A0%2587%25E4%25B8%258A%25E7%25BA%25BF%2523%26display_time%3D1763085595%26pre_seqid%3D17630855955800113706031&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一。苹果、豆一涨超2%，苯乙烯（EB）、瓶片、PTA、液化石油气（LPG）、原木、乙二醇（EG）涨超1%；跌幅方面，甲醇跌超2%，玻璃、沪锡、焦煤、碳酸锂、工业硅、沪镍、集运欧线跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251114150046623800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "商品期货收盘，苹果、豆一主力合约涨超2%，瓶片、苯乙烯、PTA、乙二醇、原木、液化气涨超1%。甲醇跌超2%，玻璃、焦煤、沪锡、工业硅、沪镍、集运欧线、碳酸锂跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3004656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
-          "url": "https://wallstreetcn.com/livenews/3004415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "苹果(AAPL.O)：所有美国职业足球大联盟比赛将向Apple TV订阅用户免费提供流媒体服务，无需额外付费。",
-          "url": "https://flash.jin10.com/detail/20251114053244385800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
-          "url": "https://flash.jin10.com/detail/20251114061331126800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -484,7 +496,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
