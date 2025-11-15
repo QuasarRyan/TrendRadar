@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T22:23:11.935560+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-11-15T23:24:00.663087+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时13分 ~ 22时23分]"
+          "appearance_count": 19,
+          "time_info": "[11时13分 ~ 23时24分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -34,8 +34,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时57分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[09时57分 ~ 23时24分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -47,11 +47,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时36分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[14时36分 ~ 23时24分]"
         },
         {
           "title": "苹果“袜子手机袋”多款开售即告罄",
@@ -100,18 +101,6 @@
           "time_info": "[11时13分 ~ 18时26分]"
         },
         {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时25分]"
-        },
-        {
           "title": "淄博“苹果哥”走红 本人回应",
           "url": "https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E8%8B%B9%E6%9E%9C%E5%93%A5%E2%80%9D%E8%B5%B0%E7%BA%A2+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -122,8 +111,20 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时26分 ~ 23时24分]"
+        },
+        {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[18时26分 ~ 22时23分]"
+          "time_info": "[00时34分 ~ 05时25分]"
         },
         {
           "title": "苹果为库克最快明年卸任CEO做准备 加紧推进接班人计划",
@@ -360,8 +361,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时24分 ~ 22时23分]"
+          "appearance_count": 22,
+          "time_info": "[07时24分 ~ 23时24分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -375,8 +376,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时34分 ~ 22时23分]"
+          "appearance_count": 32,
+          "time_info": "[00时34分 ~ 23时24分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -390,8 +391,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时57分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[09时57分 ~ 23时24分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
