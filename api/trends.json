@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T15:23:22.232063+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-11-15T16:31:22.155579+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时31分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -28,11 +29,28 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时31分]"
+        },
+        {
+          "title": "苹果“袜子手机袋”多款开售即告罄",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E2%80%9C%E8%A2%9C%E5%AD%90%E6%89%8B%E6%9C%BA%E8%A2%8B%E2%80%9D%E5%A4%9A%E6%AC%BE%E5%BC%80%E5%94%AE%E5%8D%B3%E5%91%8A%E7%BD%84",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12,
+            15,
+            18,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时31分]"
         },
         {
           "title": "骑手送苹果手机时人货全部失踪",
@@ -49,19 +67,18 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
-          "title": "苹果“袜子手机袋”多款开售即告罄",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E2%80%9C%E8%A2%9C%E5%AD%90%E6%89%8B%E6%9C%BA%E8%A2%8B%E2%80%9D%E5%A4%9A%E6%AC%BE%E5%BC%80%E5%94%AE%E5%8D%B3%E5%91%8A%E7%BD%84",
-          "source": "百度热搜",
+          "title": "1299元起的苹果手机袋值不值",
+          "url": "https://www.toutiao.com/trending/7572527631750217766/",
+          "source": "今日头条",
           "ranks": [
-            5,
+            16,
             12,
-            15,
-            18,
-            23
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时31分]"
         },
         {
           "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
@@ -76,20 +93,6 @@
           "time_info": "[00时34分 ~ 05时25分]"
         },
         {
-          "title": "1299元起的苹果手机袋值不值",
-          "url": "https://www.toutiao.com/trending/7572527631750217766/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时23分]"
-        },
-        {
           "title": "苹果为库克最快明年卸任CEO做准备 加紧推进接班人计划",
           "url": "https://flash.jin10.com/detail/20251115113855991800",
           "source": "金十数据",
@@ -97,11 +100,42 @@
             3,
             4,
             7,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时31分]"
+        },
+        {
+          "title": "据英国金融时报：苹果(AAPL.O)正为蒂姆·库克最快明年卸任首席执行官做准备，该公司硬件工程高级副总裁约翰·特纳斯（John Ternus）被广泛认为是库克最有可能的继任者。",
+          "url": "https://flash.jin10.com/detail/20251115113351671800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5,
+            8,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时31分]"
+        },
+        {
+          "title": "苹果公司正在加紧制定接班人计划，为蒂姆·库克（Tim Cook）最快于明年卸任首席执行官一职做准备。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3005144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            10,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时31分]"
         },
         {
           "title": "苹果针织手机包开售半小时内抢光",
@@ -113,34 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)正为蒂姆·库克最快明年卸任首席执行官做准备，该公司硬件工程高级副总裁约翰·特纳斯（John Ternus）被广泛认为是库克最有可能的继任者。",
-          "url": "https://flash.jin10.com/detail/20251115113351671800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时23分]"
-        },
-        {
-          "title": "苹果公司正在加紧制定接班人计划，为蒂姆·库克（Tim Cook）最快于明年卸任首席执行官一职做准备。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3005144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时23分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -161,11 +167,12 @@
             5,
             6,
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时31分]"
         },
         {
           "title": "骑手送6台苹果手机半路失联",
@@ -179,6 +186,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时57分 ~ 12时30分]"
+        },
+        {
+          "title": "淄博苹果哥火了 各地商贩纷纷模仿",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E8%8B%B9%E6%9E%9C%E5%93%A5%E7%81%AB%E4%BA%86+%E5%90%84%E5%9C%B0%E5%95%86%E8%B4%A9%E7%BA%B7%E7%BA%B7%E6%A8%A1%E4%BB%BF",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时31分]"
         },
         {
           "title": "美国国际贸易委员会决定启动新程序，以确定更新版苹果手表的进口是否应被禁止",
@@ -204,6 +224,19 @@
           "time_info": "[09时57分 ~ 15时23分]"
         },
         {
+          "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
+          "url": "https://www.zhihu.com/question/1972480723312181332",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时31分]"
+        },
+        {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
           "url": "https://wallstreetcn.com/articles/3759431",
           "source": "华尔街见闻",
@@ -213,18 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
-        },
-        {
-          "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
-          "url": "https://www.zhihu.com/question/1972480723312181332",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时23分]"
         },
         {
           "title": "伯克希尔披露43亿美元新购Alphabet股份，并出售更多苹果公司股份",
@@ -237,18 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时24分]"
-        },
-        {
-          "title": "淄博苹果哥火了 各地商贩纷纷模仿",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E8%8B%B9%E6%9E%9C%E5%93%A5%E7%81%AB%E4%BA%86+%E5%90%84%E5%9C%B0%E5%95%86%E8%B4%A9%E7%BA%B7%E7%BA%B7%E6%A8%A1%E4%BB%BF",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时23分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -326,8 +335,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 15时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 16时31分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -338,8 +347,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 16时31分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时24分 ~ 15时23分]"
+          "time_info": "[09时57分 ~ 16时31分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -352,19 +374,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 14时36分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时23分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
@@ -545,11 +554,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时31分]"
         }
       ]
     },
