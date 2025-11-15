@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T01:20:24.889026+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2025-11-16T02:33:53.371340+08:00",
+  "total_titles_processed": 350,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "1299元起的苹果手机袋值不值",
@@ -47,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -78,19 +79,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2201293",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -100,8 +102,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     }
