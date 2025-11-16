@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-16T10:08:23.170549+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2025-11-16T11:52:46.878527+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
           "url": "https://www.cls.cn/detail/2201480",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时52分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -64,11 +65,23 @@
           "url": "https://www.zhihu.com/question/1972963239005483999",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 11时52分]"
+        },
+        {
+          "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
+          "url": "https://wallstreetcn.com/articles/3759458",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "11时52分"
         }
       ]
     },
@@ -84,21 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时08分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时52分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -110,8 +110,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时52分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时52分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -139,7 +153,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
