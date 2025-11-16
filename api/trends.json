@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T11:52:46.878527+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-11-16T12:32:30.451249+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时32分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -66,22 +66,24 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 12时32分]"
         },
         {
           "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
           "url": "https://wallstreetcn.com/articles/3759458",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时32分]"
         }
       ]
     },
@@ -97,21 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时52分]"
-        },
-        {
-          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
-          "url": "https://www.cls.cn/detail/2201578",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时32分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -124,8 +113,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时32分]"
+        },
+        {
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时32分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
