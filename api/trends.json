@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T13:25:57.398912+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2025-11-16T14:37:22.185017+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时37分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -67,11 +67,12 @@
           "ranks": [
             15,
             12,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 14时37分]"
         },
         {
           "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
@@ -82,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 14时37分]"
         }
       ]
     },
@@ -100,22 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时25分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时37分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -128,8 +115,23 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时37分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时37分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
