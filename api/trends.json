@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T21:29:44.917714+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-16T22:22:44.692957+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -97,11 +97,12 @@
             5,
             12,
             20,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时22分]"
         }
       ]
     },
@@ -135,8 +136,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 21时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 22时22分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -183,8 +184,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时22分]"
         },
         {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
@@ -205,11 +206,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时22分]"
         }
       ]
     },
