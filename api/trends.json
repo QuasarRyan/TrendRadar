@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T20:55:38.075445+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2025-11-17T21:37:56.023798+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -95,9 +95,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        },
+        {
+          "title": "美股三大股指期货均转跌，纳指期货此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3005902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
@@ -111,13 +122,24 @@
           "time_info": "17时32分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117210242767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "量子计算概念股Quantum Computing美股盘前一度涨25%。",
           "url": "https://flash.jin10.com/detail/20251117202236451800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -139,7 +161,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -164,6 +186,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "诺和诺德美股盘前跌超1%，礼来盘前跌约0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3005883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1973030189261874735",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时33分 ~ 21时37分]"
+        },
+        {
+          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
+          "url": "https://wallstreetcn.com/articles/3759501",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时28分 ~ 21时37分]"
+        },
+        {
+          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
+          "url": "https://www.zhihu.com/question/1973043161929577003",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时34分 ~ 10时03分]"
+        },
+        {
+          "title": "苹果CEO库克被曝最早于明年卸任，公司董事会和高层正加紧为交接做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31979684",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时52分 ~ 19时24分]"
+        },
+        {
+          "title": "苹果哥最后的清闲时光",
+          "url": "https://www.douyin.com/hot/2308797",
+          "source": "抖音",
+          "ranks": [
+            19,
+            17,
+            28,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 20时55分]"
+        },
+        {
+          "title": "字节跳动霸榜苹果应用商店",
+          "url": "https://wallstreetcn.com/livenews/3005885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -180,8 +303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 20时55分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 21时37分]"
         },
         {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -237,85 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1973030189261874735",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 20时55分]"
-        },
-        {
-          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
-          "url": "https://wallstreetcn.com/articles/3759501",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时28分 ~ 20时55分]"
-        },
-        {
-          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
-          "url": "https://www.zhihu.com/question/1973043161929577003",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时34分 ~ 10时03分]"
-        },
-        {
-          "title": "苹果CEO库克被曝最早于明年卸任，公司董事会和高层正加紧为交接做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31979684",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时52分 ~ 19时24分]"
-        },
-        {
-          "title": "苹果哥最后的清闲时光",
-          "url": "https://www.douyin.com/hot/2308797",
-          "source": "抖音",
-          "ranks": [
-            19,
-            17,
-            28,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 20时55分]"
         }
       ]
     },
