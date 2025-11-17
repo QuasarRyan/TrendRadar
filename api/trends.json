@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T18:31:33.646730+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-11-17T19:24:08.741901+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,18 @@
           "time_info": "[17时32分 ~ 18时31分]"
         },
         {
+          "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
           "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3005756",
           "source": "华尔街见闻-快讯",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时31分]"
-        },
-        {
-          "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
@@ -138,6 +139,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 19时24分]"
+        },
+        {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -147,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时31分]"
         },
         {
           "title": "金价居高不下，黄金消费现新趋势",
@@ -210,6 +212,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1973030189261874735",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 19时24分]"
+        },
+        {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
           "url": "https://www.zhihu.com/question/1973043161929577003",
           "source": "知乎",
@@ -224,20 +240,6 @@
           "time_info": "[02时34分 ~ 10时03分]"
         },
         {
-          "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1973030189261874735",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 18时31分]"
-        },
-        {
           "title": "苹果CEO库克被曝最早于明年卸任，公司董事会和高层正加紧为交接做准备",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979684",
           "source": "澎湃新闻",
@@ -246,11 +248,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[11时52分 ~ 19时24分]"
         },
         {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
@@ -262,8 +265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[13时28分 ~ 19时24分]"
         },
         {
           "title": "苹果哥最后的清闲时光",
@@ -272,11 +275,12 @@
           "ranks": [
             19,
             17,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时24分]"
         }
       ]
     },
