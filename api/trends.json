@@ -1,12 +1,39 @@
 {
-  "generated_at": "2025-11-18T17:30:29.243641+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-11-18T18:31:16.659335+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时31分]"
+        },
+        {
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时31分]"
+        },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
           "url": "https://www.cls.cn/detail/2203159",
@@ -18,19 +45,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时24分 ~ 16时35分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 17时30分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -46,19 +60,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时36分 ~ 12时32分]"
-        },
-        {
-          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
-          "url": "https://www.cls.cn/detail/2203264",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 17时30分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -249,6 +250,21 @@
           "time_info": "[00时36分 ~ 10时01分]"
         },
         {
+          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
+          "url": "https://www.zhihu.com/question/1974027806913553776",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 18时31分]"
+        },
+        {
           "title": "苹果哥最后的清闲时光",
           "url": "https://www.douyin.com/hot/2308797",
           "source": "抖音",
@@ -262,20 +278,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 10时01分]"
-        },
-        {
-          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
-          "url": "https://www.zhihu.com/question/1974027806913553776",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 17时30分]"
         },
         {
           "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
@@ -341,8 +343,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 17时30分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时31分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -382,11 +384,12 @@
           "url": "https://wallstreetcn.com/articles/3759603",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时30分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时31分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -491,6 +494,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
+          "url": "https://flash.jin10.com/detail/20251118175557810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
