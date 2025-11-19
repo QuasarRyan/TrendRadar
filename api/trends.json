@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T12:32:01.442797+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-11-19T13:28:09.545084+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,19 @@
           "time_info": "[00时37分 ~ 06时27分]"
         },
         {
+          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2204381",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时26分 ~ 13时28分]"
+        },
+        {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
           "url": "https://www.cls.cn/detail/2204220",
           "source": "财联社热门",
@@ -41,19 +54,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 11时19分]"
-        },
-        {
-          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2204381",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 12时32分]"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
@@ -290,11 +290,12 @@
             22,
             21,
             30,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时28分]"
         },
         {
           "title": "苹果折叠屏iPhone再曝新进展：富士康已搭建专属生产线",
