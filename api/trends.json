@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T17:30:47.149438+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2025-11-19T18:30:45.918224+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -104,6 +104,18 @@
           "time_info": "[11时19分 ~ 12时32分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 18时30分]"
+        },
+        {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
           "url": "https://flash.jin10.com/detail/20251119025030602800",
           "source": "金十数据",
@@ -124,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时30分"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -326,7 +327,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -373,6 +374,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国在9月份减持近400亿美元美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20251119062808557800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "中方再抛5亿美债传递出怎样的信号",
+          "url": "https://www.toutiao.com/trending/7574330336398544425/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -386,23 +415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国在9月份减持近400亿美元美债 日本增持",
-          "url": "https://flash.jin10.com/detail/20251119062808557800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
         }
       ]
     }
