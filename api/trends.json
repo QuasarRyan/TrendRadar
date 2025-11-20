@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T13:27:39.768752+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-11-20T14:38:47.843411+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时26分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 14时38分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -375,8 +375,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时38分 ~ 13时27分]"
+          "appearance_count": 14,
+          "time_info": "[02时38分 ~ 14时38分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超2%，玻璃、纸浆、纯碱跌近2%。涨幅方面，碳酸锂涨超3%，纯苯涨超2%，苯乙烯、沪银、苹果涨超1%。",
