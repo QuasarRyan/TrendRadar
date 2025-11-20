@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T09:59:47.036819+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2025-11-20T11:17:15.039229+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 11时17分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -41,19 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时59分]"
-        },
-        {
-          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20251120021502092800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 11时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -65,8 +55,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 09时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 11时17分]"
+        },
+        {
+          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20251120021502092800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -397,11 +398,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时38分 ~ 09时59分]"
+          "appearance_count": 11,
+          "time_info": "[02时38分 ~ 11时17分]"
         }
       ]
     }
