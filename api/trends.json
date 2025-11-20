@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:32:37.575258+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-11-20T13:27:39.768752+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -20,20 +20,6 @@
           "time_info": "[00时35分 ~ 06时26分]"
         },
         {
-          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2205477",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 11时17分]"
-        },
-        {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
@@ -42,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -56,8 +42,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[06时26分 ~ 13时27分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 11时17分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -375,8 +375,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时38分 ~ 12时32分]"
+          "appearance_count": 13,
+          "time_info": "[02时38分 ~ 13时27分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超2%，玻璃、纸浆、纯碱跌近2%。涨幅方面，碳酸锂涨超3%，纯苯涨超2%，苯乙烯、沪银、苹果涨超1%。",
@@ -385,7 +385,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
