@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T07:25:19.540286+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2025-11-20T09:59:47.036819+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时59分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时59分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -44,15 +56,17 @@
           "time_info": "02时39分"
         },
         {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
           "ranks": [
+            9,
+            5,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时59分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -65,18 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
@@ -206,7 +208,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -339,7 +341,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -394,11 +396,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 07时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时38分 ~ 09时59分]"
         }
       ]
     }
