@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T16:32:41.687954+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-11-22T17:26:05.682001+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 16时32分]"
+          "appearance_count": 15,
+          "time_info": "[07时24分 ~ 17时26分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -313,7 +313,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -335,8 +335,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时56分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 17时26分]"
+        },
+        {
+          "title": "华为AI突破性技术揭晓！",
+          "url": "https://wallstreetcn.com/articles/3759882",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         }
       ]
     },
