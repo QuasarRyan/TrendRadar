@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T21:29:33.635534+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-11-22T22:23:06.771109+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
+          "url": "https://www.cls.cn/detail/2207916",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[07时24分 ~ 22时23分]"
+        },
+        {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
           "url": "https://wallstreetcn.com/articles/3759849",
           "source": "华尔街见闻",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时35分 ~ 09时56分]"
-        },
-        {
-          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
-          "url": "https://www.cls.cn/detail/2207916",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时24分 ~ 21时29分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -83,6 +84,18 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时26分 ~ 22时23分]"
+        },
+        {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3008935",
           "source": "华尔街见闻-快讯",
@@ -98,18 +111,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 15时24分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 21时29分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -347,8 +348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时56分 ~ 21时29分]"
+          "appearance_count": 22,
+          "time_info": "[09时56分 ~ 22时23分]"
         },
         {
           "title": "华为AI突破性技术揭晓！",
