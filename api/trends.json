@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T02:35:38.216045+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2025-11-23T03:20:41.256792+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时20分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时20分]"
         }
       ]
     },
@@ -58,11 +58,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E5%A4%9A%E6%AC%BE%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 03时20分]"
         }
       ]
     },
@@ -78,8 +79,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         }
       ]
     }
