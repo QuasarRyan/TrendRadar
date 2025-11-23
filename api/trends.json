@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-23T20:47:05.811028+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2025-11-23T21:29:01.618258+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
       "match_count": 3,
       "titles": [
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 21时29分]"
+        },
         {
           "title": "曝苹果将推出多款廉价产品",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E5%A4%9A%E6%AC%BE%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 03时20分]"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 20时47分]"
         },
         {
           "title": "如果苹果把 MacOS 开源，能不能让 GNU/Linux 的桌面系统消失？",
