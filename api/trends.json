@@ -1,8 +1,37 @@
 {
-  "generated_at": "2025-11-23T15:24:53.488788+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2025-11-23T16:32:58.217921+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "曝苹果将推出多款廉价产品",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E5%A4%9A%E6%AC%BE%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 03时20分]"
+        },
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 2,
@@ -45,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 15时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 16时32分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -75,26 +104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 15时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "曝苹果将推出多款廉价产品",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E5%A4%9A%E6%AC%BE%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 03时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 16时32分]"
         }
       ]
     }
