@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T17:25:49.740950+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-11-23T18:26:35.642794+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "曝苹果将推出多款廉价产品",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "如果苹果把 MacOS 开源，能不能让 GNU/Linux 的桌面系统消失？",
+          "url": "https://www.zhihu.com/question/1973990805782943063",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
@@ -74,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 17时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 18时26分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -104,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 17时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 18时26分]"
         }
       ]
     }
