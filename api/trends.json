@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-11-23T07:24:55.822441+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-11-23T10:21:54.886189+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 07时24分]"
+        },
+        {
+          "title": "俄央行抛售黄金 金价会大跌吗",
+          "url": "https://www.toutiao.com/trending/7575692966363139638/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -16,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 10时21分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -25,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 10时21分]"
         }
       ]
     },
@@ -45,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 10时21分]"
         }
       ]
     },
@@ -65,23 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 03时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
-          "url": "https://flash.jin10.com/detail/20251122223006926800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
         }
       ]
     }
