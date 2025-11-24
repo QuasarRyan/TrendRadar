@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T06:26:33.904140+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2025-11-25T07:25:42.403675+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -36,11 +36,34 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
+          "url": "https://flash.jin10.com/detail/20251125070008701800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
@@ -79,6 +102,54 @@
           "time_info": "[05时26分 ~ 06时26分]"
         },
         {
+          "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
+          "url": "https://flash.jin10.com/detail/20251125052238827800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
+          "url": "https://wallstreetcn.com/livenews/3009774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251125014657977800",
           "source": "金十数据",
@@ -115,48 +186,26 @@
           "time_info": "[02时39分 ~ 03时20分]"
         },
         {
-          "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3009777",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时25分"
         },
         {
-          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3009775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
-          "url": "https://flash.jin10.com/detail/20251125052238827800",
+          "title": "闪迪(SNDK.O)美股盘后大涨超10%，此前公司被纳入标普500指数。",
+          "url": "https://flash.jin10.com/detail/20251125062141366800",
           "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
-          "url": "https://wallstreetcn.com/livenews/3009774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时25分"
         },
         {
           "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
@@ -165,7 +214,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -176,9 +225,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "标普道琼斯指数公司宣布，将Sandisk纳入标普500指数，取代Interpublic Group（IPG）。 将PTC Therapeutics纳入标普600小盘股指。 Sandisk（SNDK）美股盘后涨7%，PTC涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3009788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
@@ -216,8 +276,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
