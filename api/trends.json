@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T07:24:32.161548+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-11-24T10:10:00.507463+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -52,11 +52,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时10分]"
+        },
+        {
+          "title": "消息称苹果已基本放弃 Mac Pro，Pro 一度是苹果最受追捧的 Mac 机型，这背后有哪些原因？",
+          "url": "https://www.zhihu.com/question/1974221875245782073",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         }
       ]
     }
