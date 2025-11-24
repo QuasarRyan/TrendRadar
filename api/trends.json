@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T13:29:21.641295+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2025-11-24T14:40:50.712248+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 14时40分]"
         },
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
@@ -42,8 +43,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 14时40分]"
         },
         {
           "title": "CNN终止与Apple News的内容共享协议",
@@ -72,7 +73,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨近1%。",
