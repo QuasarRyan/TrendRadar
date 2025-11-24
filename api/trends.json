@@ -1,8 +1,50 @@
 {
-  "generated_at": "2025-11-24T10:10:00.507463+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-11-24T12:00:39.325145+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时10分]"
+        },
+        {
+          "title": "消息称苹果已基本放弃 Mac Pro，Pro 一度是苹果最受追捧的 Mac 机型，这背后有哪些原因？",
+          "url": "https://www.zhihu.com/question/1974221875245782073",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 12时00分]"
+        },
+        {
+          "title": "CNN终止与Apple News的内容共享协议",
+          "url": "https://flash.jin10.com/detail/20251124110743774800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时00分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -43,32 +85,19 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
+          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
+          "url": "https://flash.jin10.com/detail/20251124110330638800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11,
-            10
+            17
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时10分]"
-        },
-        {
-          "title": "消息称苹果已基本放弃 Mac Pro，Pro 一度是苹果最受追捧的 Mac 机型，这背后有哪些原因？",
-          "url": "https://www.zhihu.com/question/1974221875245782073",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时00分"
         }
       ]
     }
