@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T13:28:44.588416+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2025-11-25T14:41:01.008284+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[00时31分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时41分]"
+        },
+        {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2209422",
           "source": "财联社热门",
@@ -28,11 +41,12 @@
             13,
             11,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 14时41分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -44,19 +58,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时28分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -284,6 +285,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "苹果已经在烤肉届杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%83%A4%E8%82%89%E5%B1%8A%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 14时41分]"
+        },
+        {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
           "url": "https://wallstreetcn.com/livenews/3009747",
           "source": "华尔街见闻-快讯",
@@ -340,17 +353,6 @@
           "time_info": "04时30分"
         },
         {
-          "title": "苹果已经在烤肉届杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%83%A4%E8%82%89%E5%B1%8A%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "消息称苹果iPhone Fold折叠屏手机已实现无折痕设计",
           "url": "https://wallstreetcn.com/livenews/3009857",
           "source": "华尔街见闻-快讯",
@@ -371,6 +373,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本将把人工智能列入6大战略技术领域",
+          "url": "https://flash.jin10.com/detail/20251125141659367800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
+          "url": "https://flash.jin10.com/detail/20251125003123968800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     },
@@ -429,23 +459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
-          "url": "https://flash.jin10.com/detail/20251125003123968800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
         }
       ]
     },
