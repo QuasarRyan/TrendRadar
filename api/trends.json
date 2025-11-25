@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T10:02:54.743259+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2025-11-25T11:52:31.388825+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 11时52分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -43,6 +43,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 11时52分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 10时02分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
@@ -268,7 +269,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
@@ -311,9 +312,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "苹果夹烤肉",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
@@ -333,9 +345,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月25日（周二）上海金早盘价为943.01元/克，较国际金价(946.35元/克)，低3.34元/克",
+          "url": "https://flash.jin10.com/detail/20251125110334361800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "美国银行：黄金价格2026年或将达到5000美元",
+          "url": "https://flash.jin10.com/detail/20251125031326768800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         }
       ]
     },
@@ -383,23 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国银行：黄金价格2026年或将达到5000美元",
-          "url": "https://flash.jin10.com/detail/20251125031326768800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
         }
       ]
     },
