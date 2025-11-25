@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T21:39:42.712457+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2025-11-25T22:28:24.811868+08:00",
+  "total_titles_processed": 1966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -367,7 +378,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
@@ -504,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "汪峰大女儿小苹果疑似恋爱",
+          "url": "https://www.toutiao.com/trending/7576376875753177124/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -569,47 +591,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.5? 有哪些技术亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1976512213163480579",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "日本将把人工智能列入6大战略技术领域",
-          "url": "https://flash.jin10.com/detail/20251125141659367800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
-          "url": "https://flash.jin10.com/detail/20251125003123968800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（11月24日）纽约尾盘，ICE美元指数跌0.03%，报100.150点，日内交投区间为100.297-100.011点。 彭博美元指数涨0.02%，报1226.64点，日内交投区间为1225.27-1227.98点。",
@@ -645,6 +628,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "美国PPI和零售销售数据公布后，美元指数短线波动不大",
+          "url": "https://wallstreetcn.com/livenews/3010263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.5? 有哪些技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1976512213163480579",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时28分]"
+        },
+        {
+          "title": "日本将把人工智能列入6大战略技术领域",
+          "url": "https://flash.jin10.com/detail/20251125141659367800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
+          "url": "https://flash.jin10.com/detail/20251125003123968800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     },
@@ -671,7 +704,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         }
