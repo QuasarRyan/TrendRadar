@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T03:23:46.671494+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-26T04:31:19.143136+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -77,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "苹果有望超越三星 再度成为全球最大智能手机制造商",
@@ -89,11 +90,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         }
       ]
     },
@@ -136,11 +138,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "美元指数DXY日内跌超0.50%，现报99.70。",
