@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T16:37:22.097840+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2025-11-25T17:31:53.826513+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -311,6 +311,18 @@
           "time_info": "[04时30分 ~ 05时26分]"
         },
         {
+          "title": "波兰反垄断监管机构就隐私政策调查苹果。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3010085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时31分]"
+        },
+        {
           "title": "苹果夹烤肉",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -320,17 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时33分]"
-        },
-        {
-          "title": "波兰反垄断监管机构就隐私政策调查苹果。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3010085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "苹果罕见裁员 数十个销售部门岗位被裁",
