@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T00:35:16.181358+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-27T01:25:29.986566+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时25分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时25分]"
         }
       ]
     },
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时25分]"
         }
       ]
     }
