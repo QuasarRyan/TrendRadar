@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:24:30.416644+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2025-11-26T20:57:47.044158+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
@@ -322,11 +322,12 @@
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时03分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[10时03分 ~ 20时57分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
