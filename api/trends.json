@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T20:56:43.196686+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2025-11-27T21:38:03.545735+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
@@ -214,7 +214,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "挑战苹果夹万物",
@@ -244,6 +244,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时28分]"
+        },
+        {
+          "title": "葛荟婕回应大女儿小苹果恋爱",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "面临最高380亿美元罚款 苹果对印度新修订的反垄断法提起首例司法挑战",
