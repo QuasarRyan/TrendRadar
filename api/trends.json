@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T13:28:47.746696+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-11-27T14:41:10.979188+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,24 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 14时41分]"
+        },
+        {
+          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
+          "url": "https://www.cls.cn/detail/2212138",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 14时41分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 11时19分]"
-        },
-        {
-          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
-          "url": "https://www.cls.cn/detail/2212138",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 13时28分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
@@ -222,11 +223,12 @@
           "ranks": [
             17,
             22,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 13时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 14时41分]"
         },
         {
           "title": "苹果挑战印度反垄断监管机构的“全球营业额”罚款规定",
