@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T15:28:14.775109+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2025-11-27T16:37:22.605298+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -228,8 +228,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 15时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 16时37分]"
         },
         {
           "title": "苹果挑战印度反垄断监管机构的“全球营业额”罚款规定",
@@ -291,7 +291,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
