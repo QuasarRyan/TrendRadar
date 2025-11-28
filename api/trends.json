@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T18:29:52.608170+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2025-11-28T19:23:51.756500+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             29,
             27,
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 19时23分]"
         },
         {
           "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
@@ -104,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时00分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时00分 ~ 19时23分]"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
@@ -126,7 +127,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -137,7 +138,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -240,8 +241,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 19时23分]"
         }
       ]
     }
