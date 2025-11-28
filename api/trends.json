@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:55:10.889615+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2025-11-28T21:36:14.505701+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -105,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时00分 ~ 20时55分]"
+          "appearance_count": 16,
+          "time_info": "[10时00分 ~ 21时36分]"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
@@ -238,11 +238,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时40分 ~ 20时55分]"
+          "appearance_count": 12,
+          "time_info": "[14时40分 ~ 21时36分]"
         }
       ]
     }
