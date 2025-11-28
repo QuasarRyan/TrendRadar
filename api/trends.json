@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-28T14:41:03.038195+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2025-11-28T15:27:25.227751+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "苹果或面临380亿美元罚款",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 15时27分]"
+        },
         {
           "title": "葛荟婕回应大女儿小苹果恋爱",
           "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=30&Refer=top",
@@ -20,17 +32,6 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "苹果或面临380亿美元罚款",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
           "title": "挑战苹果夹万物",
           "url": "https://www.douyin.com/hot/2318198",
           "source": "抖音",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "苹果手机被偷一周收到骗子来电",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B0%E9%AA%97%E5%AD%90%E6%9D%A5%E7%94%B5&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
@@ -88,6 +100,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
+          "url": "https://flash.jin10.com/detail/20251128105205543800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金午盘价为948.34元/克，较国际金价(952.27元/克)，低3.93元/克",
+          "url": "https://flash.jin10.com/detail/20251128150250068800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -100,8 +140,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 15时27分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -128,25 +168,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
-          "url": "https://flash.jin10.com/detail/20251128105205543800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 15时27分]"
         }
       ]
     }
