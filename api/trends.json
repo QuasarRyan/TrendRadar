@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T18:27:14.712766+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2025-11-29T19:21:21.782515+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时24分 ~ 18时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时24分 ~ 19时21分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -235,8 +236,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 19时21分]"
         },
         {
           "title": "英特尔(INTC.O)涨超10%，郭明錤称英特尔预计最快在2027年开始出货苹果最低阶M处理器。",
@@ -299,11 +300,12 @@
           "ranks": [
             11,
             17,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时26分 ~ 18时27分]"
+          "appearance_count": 10,
+          "time_info": "[13时26分 ~ 19时21分]"
         },
         {
           "title": "金价",
