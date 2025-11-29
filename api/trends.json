@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:34:18.641989+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2025-11-29T17:26:48.943305+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 16时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 17时26分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -249,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时34分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 17时26分]"
         },
         {
           "title": "英特尔涨超7%，郭明錤预计苹果可能会发货苹果芯片",
@@ -298,11 +298,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 17时26分]"
         },
         {
           "title": "金价",
