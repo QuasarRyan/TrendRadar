@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T17:26:48.943305+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-11-29T18:27:14.712766+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 17时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时24分 ~ 18时27分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -227,6 +227,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "重新赢得大客户在望！英特尔暴涨10%，郭明錤料2027年交付苹果M系列芯片",
+          "url": "https://wallstreetcn.com/articles/3760355",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 18时27分]"
+        },
+        {
           "title": "英特尔(INTC.O)涨超10%，郭明錤称英特尔预计最快在2027年开始出货苹果最低阶M处理器。",
           "url": "https://flash.jin10.com/detail/20251129015944810800",
           "source": "金十数据",
@@ -239,18 +251,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时36分 ~ 07时25分]"
-        },
-        {
-          "title": "重新赢得大客户在望！英特尔暴涨10%，郭明錤料2027年交付苹果M系列芯片",
-          "url": "https://wallstreetcn.com/articles/3760355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时26分]"
         },
         {
           "title": "英特尔涨超7%，郭明錤预计苹果可能会发货苹果芯片",
@@ -302,8 +302,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 17时26分]"
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 18时27分]"
         },
         {
           "title": "金价",
