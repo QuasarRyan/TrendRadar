@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:01:15.893297+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-11-30T12:42:58.556157+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 12时42分]"
         },
         {
           "title": "苹果10月全球份额飙至24.2%",
