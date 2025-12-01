@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-01T10:28:55.172097+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2025-12-01T12:15:30.313532+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中式苹果炖猪排",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "如何评价苹果将在 2027 年使用 Intel 18A-P 工艺制造低端 M 系列 SoC？",
+          "url": "https://www.zhihu.com/question/1978148539101114855",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
