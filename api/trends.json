@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T01:28:33.522067+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-12-02T02:43:55.291662+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -15,19 +15,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时43分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
           "url": "https://www.cls.cn/detail/2216342",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时43分]"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013128346800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013125562800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     }
