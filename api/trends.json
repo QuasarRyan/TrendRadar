@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T13:35:07.047665+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2025-12-01T14:43:49.065718+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中式苹果炖猪排",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时43分]"
         },
         {
           "title": "如何评价苹果将在 2027 年使用 Intel 18A-P 工艺制造低端 M 系列 SoC？",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
+          "url": "https://flash.jin10.com/detail/20251201134848484800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
@@ -54,7 +66,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         }
