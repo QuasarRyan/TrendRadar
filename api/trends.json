@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T19:26:58.418946+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2025-12-02T20:59:38.449944+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
@@ -274,6 +274,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德商银行：预计明年铂金价格将与黄金走势基本一致，并于2026年底升至每1800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204252872800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "德商银行：预计未来一年内金价将上涨至4400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204210323800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -299,6 +327,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
