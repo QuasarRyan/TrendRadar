@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-03T13:27:49.210674+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2025-12-03T14:42:09.160629+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
+        },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
           "url": "https://wallstreetcn.com/articles/3760523",
@@ -20,18 +32,6 @@
           "time_info": "[00时38分 ~ 06时24分]"
         },
         {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 13时27分]"
-        },
-        {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
           "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时42分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
