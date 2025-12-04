@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T13:28:03.110407+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-12-04T14:41:54.344165+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[00时38分 ~ 06时28分]"
         },
         {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 14时41分]"
+        },
+        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -44,19 +58,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时05分 ~ 13时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 13时28分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -347,11 +348,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时55分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 14时41分]"
         },
         {
           "title": "美元指数跌0.5%，失守50日均线",
