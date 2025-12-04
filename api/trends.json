@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T12:37:35.985157+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2025-12-04T13:28:03.110407+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -34,18 +34,6 @@
           "time_info": "[00时38分 ~ 06时28分]"
         },
         {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时28分 ~ 10时06分]"
-        },
-        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -54,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 12时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 13时28分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -67,8 +55,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 12时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 13时28分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时28分 ~ 10时06分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -319,7 +319,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         }
@@ -339,6 +339,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 13时28分]"
         },
         {
           "title": "美元指数跌0.5%，失守50日均线",
@@ -363,18 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时24分]"
-        },
-        {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 12时37分]"
         }
       ]
     },
