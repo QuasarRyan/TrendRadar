@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T03:21:04.832007+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2025-12-07T04:28:27.233309+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.douyin.com/hot/2328867",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时28分]"
         }
       ]
     }
