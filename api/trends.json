@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T11:17:24.194878+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2025-12-06T12:30:58.179117+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,25 @@
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时30分]"
+        },
+        {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时30分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -28,18 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时17分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌",
@@ -80,6 +82,20 @@
           "time_info": "[07时25分 ~ 09时59分]"
         },
         {
+          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
+          "url": "https://www.cls.cn/detail/2221625",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时30分]"
+        },
+        {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
           "url": "https://flash.jin10.com/detail/20251205235821569800",
           "source": "金十数据",
@@ -90,19 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时26分]"
-        },
-        {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时17分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
