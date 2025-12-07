@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-07T13:26:20.773192+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-12-07T14:37:19.808646+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
       "match_count": 3,
       "titles": [
+        {
+          "title": "苹果CEO库克被曝手部间歇性颤抖 在公司内部引发关注",
+          "url": "https://flash.jin10.com/detail/20251207105148330800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时37分]"
+        },
         {
           "title": "当赵露思遇上苹果",
           "url": "https://www.douyin.com/hot/2328867",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 07时25分]"
-        },
-        {
-          "title": "苹果CEO库克被曝手部间歇性颤抖 在公司内部引发关注",
-          "url": "https://flash.jin10.com/detail/20251207105148330800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时26分]"
         },
         {
           "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
@@ -72,8 +73,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 13时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 14时37分]"
         },
         {
           "title": "美股三大指数小幅收涨",
