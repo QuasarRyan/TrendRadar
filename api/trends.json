@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T22:24:31.627854+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-12-07T23:24:29.670006+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,17 @@
           "time_info": "[03时20分 ~ 07时25分]"
         },
         {
+          "title": "数十年来人事从未如此动荡！苹果爆发高管离职潮，库克去向备受关注",
+          "url": "https://wallstreetcn.com/articles/3760859",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时24分]"
+        },
+        {
           "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
           "url": "https://flash.jin10.com/detail/20251207083121209800",
           "source": "金十数据",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 12时01分]"
-        },
-        {
-          "title": "数十年来人事从未如此动荡！苹果爆发高管离职潮，库克去向备受关注",
-          "url": "https://wallstreetcn.com/articles/3760859",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时24分]"
         }
       ]
     },
