@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T20:50:46.824637+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2025-12-07T21:31:28.890762+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果CEO库克被曝手部间歇性颤抖 在公司内部引发关注",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 12时01分]"
+        },
+        {
+          "title": "数十年来人事从未如此动荡！苹果爆发高管离职潮，库克去向备受关注",
+          "url": "https://wallstreetcn.com/articles/3760859",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         }
       ]
     },
