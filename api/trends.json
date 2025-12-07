@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T12:40:12.689308+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-12-07T13:26:20.773192+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时26分]"
         },
         {
           "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
@@ -71,8 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 13时26分]"
         },
         {
           "title": "美股三大指数小幅收涨",
