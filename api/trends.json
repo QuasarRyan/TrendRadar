@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T15:31:15.412323+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-12-09T16:39:43.825009+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -221,17 +221,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "苹果芯片主管辟谣：“短期内”不打算离职",
-          "url": "https://flash.jin10.com/detail/20251209004613066800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
           "title": "苹果原装取卡针回收超300元？官方回应",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8E%9F%E8%A3%85%E5%8F%96%E5%8D%A1%E9%92%88%E5%9B%9E%E6%94%B6%E8%B6%85300%E5%85%83%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -241,8 +230,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 16时39分]"
+        },
+        {
+          "title": "苹果芯片主管辟谣：“短期内”不打算离职",
+          "url": "https://flash.jin10.com/detail/20251209004613066800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)芯片主管向员工表示，他“近期不会离职”。",
@@ -283,8 +283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时39分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -322,7 +322,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -333,7 +333,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
