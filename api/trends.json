@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T17:32:00.355766+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-12-09T18:33:11.234754+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -210,7 +210,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -239,11 +239,12 @@
             18,
             4,
             7,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时28分 ~ 18时33分]"
         },
         {
           "title": "苹果芯片主管辟谣：“短期内”不打算离职",
@@ -304,7 +305,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -334,8 +335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 18时33分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
