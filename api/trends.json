@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T15:31:05.398893+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-12-10T16:38:42.579753+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -195,8 +195,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时19分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时19分 ~ 16时38分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -224,6 +224,34 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "才知道苹果按右上角就能关机",
+          "url": "https://s.weibo.com/weibo?q=%E6%89%8D%E7%9F%A5%E9%81%93%E8%8B%B9%E6%9E%9C%E6%8C%89%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%B0%B1%E8%83%BD%E5%85%B3%E6%9C%BA&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "苹果喊话iPhone用户更新iOS26",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone%E7%94%A8%E6%88%B7%E6%9B%B4%E6%96%B0iOS26%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -246,7 +274,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
@@ -278,23 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果喊话iPhone用户更新iOS26",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone%E7%94%A8%E6%88%B7%E6%9B%B4%E6%96%B0iOS26%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
         }
       ]
     }
