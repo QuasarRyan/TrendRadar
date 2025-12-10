@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T13:29:56.696832+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2025-12-10T14:43:18.214338+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时43分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -195,8 +195,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 14时43分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -249,6 +249,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果喊话iPhone用户更新iOS26",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone%E7%94%A8%E6%88%B7%E6%9B%B4%E6%96%B0iOS26%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
