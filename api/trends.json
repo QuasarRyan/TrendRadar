@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-11T13:31:19.315312+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-11T14:44:13.588815+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
-        {
-          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2225788",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时30分 ~ 07时25分]"
-        },
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
           "url": "https://wallstreetcn.com/articles/3761091",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 14时44分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -39,8 +28,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时37分 ~ 13时31分]"
+          "appearance_count": 8,
+          "time_info": "[06时37分 ~ 14时44分]"
+        },
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 07时25分]"
         },
         {
           "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
