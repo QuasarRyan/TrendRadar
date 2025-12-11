@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T15:31:13.306763+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2025-12-11T16:39:07.482487+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时09分 ~ 15时31分]"
+          "appearance_count": 10,
+          "time_info": "[10时09分 ~ 16时39分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -213,7 +213,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "男孩花10260元买二手苹果手机",
@@ -300,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时25分]"
+        },
+        {
+          "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
+          "url": "https://www.cls.cn/detail/2226248",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)CEO蒂姆·库克被看到现身美国国会。",
@@ -432,7 +443,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -443,7 +454,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
