@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T12:44:54.515705+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-12-11T13:31:19.315312+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时31分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时37分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[06时37分 ~ 13时31分]"
         },
         {
           "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
@@ -460,8 +460,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时31分]"
         }
       ]
     }
