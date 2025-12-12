@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T12:43:34.296916+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-12-12T13:30:22.928717+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时30分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -255,8 +255,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 13时30分]"
+        },
+        {
+          "title": "奶奶用暖气片烤苹果干",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%94%A8%E6%9A%96%E6%B0%94%E7%89%87%E7%83%A4%E8%8B%B9%E6%9E%9C%E5%B9%B2%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时30分]"
         },
         {
           "title": "奶奶用暖气片给孙子烤苹果干",
@@ -270,17 +281,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时09分 ~ 12时43分]"
-        },
-        {
-          "title": "奶奶用暖气片烤苹果干",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%94%A8%E6%9A%96%E6%B0%94%E7%89%87%E7%83%A4%E8%8B%B9%E6%9E%9C%E5%B9%B2%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "苹果在Epic反垄断案中推翻部分法院命令",
