@@ -1,39 +1,8 @@
 {
-  "generated_at": "2025-12-14T23:26:30.101597+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2025-12-15T00:32:34.342726+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 18时28分]"
-        },
-        {
-          "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
-          "url": "https://wallstreetcn.com/articles/3761330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 12时03分]"
-        }
-      ]
-    },
     {
       "keyword_group": "金价",
       "match_count": 1,
@@ -43,12 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3761367",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
@@ -61,14 +29,11 @@
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时28分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
