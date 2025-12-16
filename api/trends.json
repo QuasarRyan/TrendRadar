@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T13:31:24.650217+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-12-16T14:44:12.528389+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[00时40分 ~ 06时28分]"
         },
         {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时28分 ~ 14时44分]"
+        },
+        {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 10时10分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时28分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -206,7 +206,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -246,7 +246,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
