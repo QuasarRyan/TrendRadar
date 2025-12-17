@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T19:27:51.641826+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2025-12-17T21:00:41.451639+08:00",
+  "total_titles_processed": 1862,
   "failed_sources": [],
   "trends": [
     {
@@ -178,6 +178,21 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "“果链”大事件！苹果首次考虑在印度封装iPhone芯片 已开始展开谈判",
+          "url": "https://www.cls.cn/detail/2231960",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 21时00分]"
+        },
+        {
           "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
           "url": "https://wallstreetcn.com/articles/3761511",
           "source": "华尔街见闻",
@@ -187,22 +202,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时57分 ~ 19时27分]"
-        },
-        {
-          "title": "“果链”大事件！苹果首次考虑在印度封装iPhone芯片 已开始展开谈判",
-          "url": "https://www.cls.cn/detail/2231960",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[11时57分 ~ 21时00分]"
         },
         {
           "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
