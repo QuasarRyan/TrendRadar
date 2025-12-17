@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T15:30:23.669073+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2025-12-17T16:39:39.552198+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
@@ -174,8 +174,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 15时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 16时39分]"
         },
         {
           "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
@@ -211,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "“果链”大事件！苹果首次考虑在印度封装iPhone芯片 已开始展开谈判",
+          "url": "https://www.cls.cn/detail/2231960",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
