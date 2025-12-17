@@ -1,29 +1,23 @@
 {
-  "generated_at": "2025-12-18T00:38:37.542341+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-18T01:30:14.299140+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
-          "url": "https://wallstreetcn.com/articles/3761511",
+          "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 01时30分]"
+        },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
@@ -34,6 +28,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
+          "url": "https://wallstreetcn.com/articles/3761511",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时30分]"
         }
       ]
     }
