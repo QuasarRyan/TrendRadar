@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T17:34:47.484247+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2025-12-18T18:32:20.355035+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时27分 ~ 17时34分]"
+          "appearance_count": 13,
+          "time_info": "[06时27分 ~ 18时32分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -192,7 +192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -253,11 +253,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时32分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少。钯涨超6%，铂涨超5%，焦煤、焦炭涨超4%，沪银、沪锡涨超3%，玻璃、工业硅涨超2%；跌幅方面，集运欧线跌超3%，苹果、豆二、豆一、苯乙烯（EB）跌超1%。",
