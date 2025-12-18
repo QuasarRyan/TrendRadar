@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T10:06:04.811445+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2025-12-18T11:58:45.756820+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时27分 ~ 10时06分]"
+          "appearance_count": 6,
+          "time_info": "[06时27分 ~ 11时58分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时27分 ~ 10时06分]"
+          "appearance_count": 6,
+          "time_info": "[06时27分 ~ 11时58分]"
         },
         {
           "title": "半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%",
@@ -222,7 +222,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
@@ -237,15 +237,43 @@
           "time_info": "[00时38分 ~ 05时29分]"
         },
         {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。钯涨超6%，铂涨超5%，焦煤、焦炭涨超4%，沪银、沪锡涨超3%，玻璃、工业硅涨超2%；跌幅方面，集运欧线跌超3%，苹果、豆二、豆一、苯乙烯（EB）跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251218113053882800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
           "title": "苹果在日本向其他应用程序商店开放iPhone。苹果公司称，将对日本数字商品销售收取佣金。iOS应用程序将支付10%或21%的降低后佣金。提供用于家长监控购买行为的新应用程序编程接口（API）。",
           "url": "https://flash.jin10.com/detail/20251218090300265800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
+          "url": "https://flash.jin10.com/detail/20251218110237653800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     },
