@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T03:23:07.130720+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-12-20T04:31:25.508066+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -58,11 +58,12 @@
             11,
             14,
             25,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
@@ -71,7 +72,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
@@ -106,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 04时31分]"
         }
       ]
     },
