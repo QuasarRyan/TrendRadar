@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T02:39:50.456130+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-20T03:23:07.130720+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -41,6 +42,38 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三角洲行动 苹果源记",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E8%8B%B9%E6%9E%9C%E6%BA%90%E8%AE%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            11,
+            14,
+            25,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时23分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
+          "url": "https://flash.jin10.com/detail/20251220025354643800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     },
@@ -58,26 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三角洲行动 苹果源记",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E8%8B%B9%E6%9E%9C%E6%BA%90%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            11,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时39分]"
         }
       ]
     },
@@ -108,11 +121,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时23分]"
         }
       ]
     }
