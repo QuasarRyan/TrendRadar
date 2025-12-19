@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:43:55.662004+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-12-19T13:31:20.118107+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时43分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 13时31分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时41分 ~ 06时27分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 13时31分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -90,18 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 12时43分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）热门中概股行情一览（美股收盘）",
