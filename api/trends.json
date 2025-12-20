@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:32:47.960412+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-12-20T22:25:23.100955+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时01分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 22时25分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时01分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 22时25分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -83,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时33分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时33分 ~ 22时25分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -110,11 +110,12 @@
             4,
             13,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时25分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -212,11 +213,12 @@
             20,
             12,
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时39分 ~ 22时25分]"
         },
         {
           "title": "三角洲行动 苹果源记",
@@ -234,11 +236,12 @@
             30,
             23,
             26,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 22时25分]"
         },
         {
           "title": "坚持吃苹果一个月的身体变化",
@@ -263,8 +266,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 22时25分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
