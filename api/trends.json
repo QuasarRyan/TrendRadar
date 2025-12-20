@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T13:28:35.987067+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2025-12-20T14:39:56.387661+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 14时39分]"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时27分 ~ 14时39分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -45,20 +59,6 @@
           "time_info": "[00时35分 ~ 07时26分]"
         },
         {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时27分 ~ 13时28分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -90,11 +90,24 @@
           "ranks": [
             8,
             11,
-            18
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时39分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时28分]"
+          "time_info": "[12时33分 ~ 14时39分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -107,18 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时28分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "三角洲行动 苹果源记",
@@ -196,11 +197,12 @@
             12,
             24,
             20,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 10时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时39分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
@@ -212,6 +214,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
+          "url": "https://www.zhihu.com/question/1985109237156815522",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "坚持吃苹果一个月的身体变化",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E5%90%83%E8%8B%B9%E6%9E%9C%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E8%BA%AB%E4%BD%93%E5%8F%98%E5%8C%96%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
