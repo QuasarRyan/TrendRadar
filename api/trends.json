@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T05:23:32.869029+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-12-21T06:25:57.386675+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -56,11 +56,12 @@
             5,
             7,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -71,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时25分]"
         }
       ]
     }
