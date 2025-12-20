@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:25:23.100955+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-12-20T23:26:21.174008+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时01分 ~ 22时25分]"
+          "appearance_count": 18,
+          "time_info": "[10时01分 ~ 23时26分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时01分 ~ 22时25分]"
+          "appearance_count": 18,
+          "time_info": "[10时01分 ~ 23时26分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -83,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时33分 ~ 22时25分]"
+          "appearance_count": 14,
+          "time_info": "[12时33分 ~ 23时26分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -214,11 +214,12 @@
             12,
             10,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时39分 ~ 22时25分]"
+          "appearance_count": 12,
+          "time_info": "[14时39分 ~ 23时26分]"
         },
         {
           "title": "三角洲行动 苹果源记",
@@ -237,11 +238,25 @@
             23,
             26,
             22,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 22时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 23时26分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 23时26分]"
         },
         {
           "title": "坚持吃苹果一个月的身体变化",
@@ -255,19 +270,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时39分 ~ 19时22分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 22时25分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
