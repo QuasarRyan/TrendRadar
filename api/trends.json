@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:25:57.386675+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-21T07:25:32.772245+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时25分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 07时25分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时25分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -72,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时25分]"
         }
       ]
     }
