@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T14:40:13.888802+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2025-12-21T15:25:55.270282+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             10,
             7,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 15时25分]"
         },
         {
           "title": "据Business Insider：由于大使馆出现延误，苹果已建议部分持有签证的员工不要前往美国境外旅行。",
@@ -100,8 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 14时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 15时25分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -109,11 +110,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时25分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -135,8 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时25分]"
         }
       ]
     },
@@ -161,22 +163,24 @@
           "source": "抖音",
           "ranks": [
             17,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 15时25分]"
         },
         {
           "title": "金价又涨了",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时25分]"
         }
       ]
     }
