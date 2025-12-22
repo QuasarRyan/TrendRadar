@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:32:18.923851+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-12-22T14:45:49.537840+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时45分]"
         }
       ]
     },
@@ -85,9 +86,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国苹果公司首席运营官萨比赫·汗",
+          "url": "https://wallstreetcn.com/livenews/3024738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     }
