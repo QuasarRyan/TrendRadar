@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T10:10:16.697922+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2025-12-23T12:03:31.518762+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 05时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 12时03分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 10时10分]"
         },
         {
           "title": "美股收盘：三大股指齐升 特朗普旗下公司跌超10%",
