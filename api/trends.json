@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T12:01:40.136210+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2025-12-24T12:46:42.912459+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时46分]"
         },
         {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
@@ -306,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 12时46分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
