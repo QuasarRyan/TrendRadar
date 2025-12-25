@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T21:38:10.948489+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-12-25T22:28:09.441531+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 22时28分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -167,6 +167,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 22时28分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
           "url": "https://flash.jin10.com/detail/20251225150449280800",
           "source": "金十数据",
@@ -176,18 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时38分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
