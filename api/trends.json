@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:31:29.026744+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2025-12-26T19:25:53.822476+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时09分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[10时09分 ~ 19时25分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -127,11 +127,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时25分]"
         },
         {
           "title": "苹果手机11月中国销售同比翻番",
@@ -181,7 +182,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
