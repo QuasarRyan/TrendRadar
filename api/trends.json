@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T07:26:39.742593+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-12-26T10:09:38.932768+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -36,6 +36,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 04时31分]"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么北京经济第一强区海淀至今没有苹果直营店？",
+          "url": "https://www.zhihu.com/question/1986410191810490956",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
