@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T20:57:03.287168+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2025-12-26T21:38:59.146461+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 20时57分]"
+          "appearance_count": 16,
+          "time_info": "[10时09分 ~ 21时38分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -64,6 +64,17 @@
           "time_info": "[00时34分 ~ 04时31分]"
         },
         {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时38分]"
+        },
+        {
           "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
           "url": "https://www.cls.cn/detail/2240558",
           "source": "财联社热门",
@@ -88,17 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 13时31分]"
-        },
-        {
-          "title": "金价暴涨还能买吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
