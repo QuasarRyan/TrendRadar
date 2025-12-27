@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-12-27T13:29:26.928288+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2025-12-27T14:41:07.595459+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 14时41分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 14时41分]"
+        },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
           "url": "https://wallstreetcn.com/articles/3762133",
@@ -21,28 +43,6 @@
           "time_info": "[00时33分 ~ 05时25分]"
         },
         {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 13时29分]"
-        },
-        {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 13时29分]"
-        },
-        {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
           "url": "https://www.cls.cn/detail/2241565",
           "source": "财联社热门",
@@ -50,11 +50,24 @@
             11,
             10,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 13时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 14时41分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 14时41分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 13时29分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
