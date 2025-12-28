@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T18:29:02.136210+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-12-28T19:23:44.324737+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[13时32分 ~ 18时29分]"
         },
         {
+          "title": "苹果煮水喝好处太多了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%A5%BD%E5%A4%84%E5%A4%AA%E5%A4%9A%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时23分]"
+        },
+        {
           "title": "如何评价苹果天才吧（Genius Bar）解决系统问题的水平？",
           "url": "https://www.zhihu.com/question/386025887",
           "source": "知乎",
@@ -32,17 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 16时36分]"
-        },
-        {
-          "title": "苹果煮水喝好处太多了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%A5%BD%E5%A4%84%E5%A4%AA%E5%A4%9A%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "800块的苹果全家桶",
@@ -62,6 +63,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时23分]"
+        },
+        {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
@@ -72,18 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 12时12分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 18时29分]"
         }
       ]
     },
