@@ -1,8 +1,50 @@
 {
-  "generated_at": "2025-12-28T15:27:51.933256+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2025-12-28T16:36:02.103577+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "用苹果风格宣传钥匙圈",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%8B%B9%E6%9E%9C%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E9%92%A5%E5%8C%99%E5%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            19,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 16时36分]"
+        },
+        {
+          "title": "如何评价苹果天才吧（Genius Bar）解决系统问题的水平？",
+          "url": "https://www.zhihu.com/question/386025887",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "800块的苹果全家桶",
+          "url": "https://s.weibo.com/weibo?q=800%E5%9D%97%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%85%A8%E5%AE%B6%E6%A1%B6&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 2,
@@ -26,28 +68,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "用苹果风格宣传钥匙圈",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%8B%B9%E6%9E%9C%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E9%92%A5%E5%8C%99%E5%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 15时27分]"
         }
       ]
     },
