@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T17:28:48.399079+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-12-28T18:29:02.136210+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "用苹果风格宣传钥匙圈",
@@ -19,8 +19,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[13时32分 ~ 18时29分]"
         },
         {
           "title": "如何评价苹果天才吧（Genius Bar）解决系统问题的水平？",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "苹果煮水喝好处太多了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%A5%BD%E5%A4%84%E5%A4%AA%E5%A4%9A%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "800块的苹果全家桶",
@@ -67,11 +78,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 18时29分]"
         }
       ]
     },
