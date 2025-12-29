@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T21:45:26.413601+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-12-29T22:29:42.475141+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
@@ -91,7 +91,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
@@ -118,6 +118,17 @@
           "time_info": "[00时34分 ~ 05时25分]"
         },
         {
+          "title": "受科技股拖累，美股指期货走低，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20251229070023196800",
           "source": "金十数据",
@@ -139,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时32分 ~ 19时26分]"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
