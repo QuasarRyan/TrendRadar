@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T12:03:32.541033+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2025-12-31T13:32:48.862408+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时32分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -246,7 +246,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
@@ -368,6 +368,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 06时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
