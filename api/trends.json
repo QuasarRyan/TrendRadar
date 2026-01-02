@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T03:19:41.585159+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-03T04:31:07.798470+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -26,19 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2246465",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -46,11 +47,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
@@ -58,11 +60,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -72,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -135,8 +138,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -148,8 +151,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -158,11 +161,12 @@
           "ranks": [
             29,
             28,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
