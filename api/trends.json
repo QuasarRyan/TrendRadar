@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T15:26:27.307328+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-01-03T16:35:58.559157+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时26分 ~ 16时35分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时39分 ~ 15时26分]"
+          "appearance_count": 16,
+          "time_info": "[02时39分 ~ 16时35分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -64,11 +64,12 @@
             10,
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 15时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时35分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -82,11 +83,12 @@
             16,
             17,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时28分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[06时28分 ~ 16时35分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -99,11 +101,12 @@
             10,
             11,
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -115,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时35分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -377,7 +380,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
@@ -399,11 +402,12 @@
             14,
             15,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时28分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[06时28分 ~ 16时35分]"
         }
       ]
     },
