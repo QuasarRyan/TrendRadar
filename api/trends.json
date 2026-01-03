@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T06:27:37.113050+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-01-04T07:27:02.076717+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时27分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -41,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时27分]"
         }
       ]
     }
