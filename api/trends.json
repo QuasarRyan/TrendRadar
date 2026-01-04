@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T17:27:33.030092+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-01-04T18:28:19.590325+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时28分]"
         },
         {
           "title": "苹果“Apple 智能与 Siri”被曝已开启国行灰度测试，部分功能受限",
@@ -41,22 +41,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时28分]"
         },
         {
           "title": "有网友称收到苹果AI国行版升级通知，官方回应",
           "url": "https://flash.jin10.com/detail/20260104162200603800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "喝苹果醋就能“甩肉”？系夸大功效",
@@ -65,9 +67,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时28分]"
         }
       ]
     },
