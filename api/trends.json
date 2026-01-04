@@ -1,166 +1,22 @@
 {
-  "generated_at": "2026-01-04T23:27:07.094798+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-01-05T00:33:28.502435+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "网友称苹果手机电池健康度用到 0%，客服回应现实中没见过，什么情况下会到 0%？你手机最低到过多少？",
-          "url": "https://www.zhihu.com/question/1989279702389584371",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            5,
-            3,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 20时55分]"
-        },
-        {
-          "title": "国行版AI上线了？苹果回应",
-          "url": "https://wallstreetcn.com/livenews/3030272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 19时23分]"
-        },
-        {
-          "title": "苹果“Apple 智能与 Siri”被曝已开启国行灰度测试，部分功能受限",
-          "url": "https://wallstreetcn.com/livenews/3030210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 14时42分]"
-        },
         {
           "title": "“i茅台”APP冲上苹果应用商店购物榜第一名。",
           "url": "https://wallstreetcn.com/livenews/3030340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时27分]"
-        },
-        {
-          "title": "喝苹果醋就能“甩肉”？系夸大功效",
-          "url": "https://www.toutiao.com/trending/7591411760687988763/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时23分]"
-        },
-        {
-          "title": "有网友称收到苹果AI国行版升级通知，官方回应",
-          "url": "https://flash.jin10.com/detail/20260104162200603800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时27分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时33分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时15分]"
-        },
-        {
-          "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
-          "url": "https://wallstreetcn.com/articles/3762476",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 12时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "00时33分"
         }
       ]
     }
