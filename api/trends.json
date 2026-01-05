@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:33:45.975046+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2026-01-05T23:33:18.134878+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美股三大股指期货周一小幅高开。",
@@ -52,13 +63,25 @@
           "time_info": "[17时40分 ~ 17时41分]"
         },
         {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时33分]"
+        },
+        {
           "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -69,18 +92,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -113,7 +125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -135,15 +147,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "能源业ETF涨超3%，领跑美股行业ETF，此前美国掳走委内瑞拉总统，特朗普宣布投资委国石油",
+          "url": "https://wallstreetcn.com/livenews/3030945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "美股无视委国变局领跑首周 市场静待非农就业数据",
+          "url": "https://flash.jin10.com/detail/20260105230128432800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -158,8 +192,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时43分 ~ 22时33分]"
+          "appearance_count": 10,
+          "time_info": "[16时43分 ~ 23时33分]"
         },
         {
           "title": "“i茅台”APP冲上苹果应用商店购物榜第一名。",
@@ -197,6 +231,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "道琼斯工业平均指数（道指）日内涨幅达1.0%，报48865.11点。 成分股雪佛龙涨3.4%，高盛涨3.2%，卡特彼勒涨2.8%，耐克涨2.5%，IBM、亚马逊涨超2.2%，苹果跌0.7%，可口可乐跌0.9%，安进跌1.3%，强生跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3030953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌不一，钯涨超9%，铂涨超6%，碳酸锂涨超5%，铝合金涨超4%，沥青、沪铝涨超3%，沪锌、苹果、沪锡、国际铜、沪铜涨超2%。跌幅方面，烧碱跌超3%，SC原油跌超2%，焦炭、乙二醇、硅铁、纯苯、低硫燃料油、棕榈油跌超1%。",
           "url": "https://flash.jin10.com/detail/20260105113047258800",
           "source": "金十数据",
@@ -214,7 +259,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -239,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "前苹果工程师推出“视觉大脑”助力机器人感知世界",
+          "url": "https://wallstreetcn.com/livenews/3030940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
@@ -299,7 +355,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         }
