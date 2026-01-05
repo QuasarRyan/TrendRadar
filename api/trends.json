@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T03:27:26.148088+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-06T04:34:02.947050+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -76,11 +76,12 @@
           "ranks": [
             4,
             5,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时34分]"
         }
       ]
     },
