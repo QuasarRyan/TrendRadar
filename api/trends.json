@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T18:32:43.141378+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-01-06T19:26:59.559643+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时27分 ~ 18时32分]"
+          "appearance_count": 16,
+          "time_info": "[07时27分 ~ 19时26分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -288,11 +288,12 @@
             13,
             11,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时33分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时33分 ~ 19时26分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
@@ -375,7 +376,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
@@ -411,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
