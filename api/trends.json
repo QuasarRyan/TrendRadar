@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:41:01.011032+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-01-06T17:35:06.456373+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 16时41分]"
+          "appearance_count": 14,
+          "time_info": "[07时27分 ~ 17时35分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -192,8 +192,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 16时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时12分 ~ 17时35分]"
         },
         {
           "title": "标普500指数初步收涨0.6%，能源板块涨2.7%，金融板块涨2.1%，电信板块涨0.6%，科技版跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，拉美电商MercadoLibre涨9%，科磊涨6.2%，Shopify涨5.9%，应用材料、阿斯麦ADR、拉姆研究涨超5%，安进、卡夫亨氏、吉利德科学、核电股CEG跌超2%，铿腾电子跌3.2%，Diamondback Energy跌3.4%。 雪佛龙初步收涨5.1%，高盛涨3.8%，卡特彼勒、亚马逊、霍尼韦尔涨超2%，领跑道指成分股，麦当劳、苹果、强生、可口可乐、安进则至少跌超1%。",
@@ -296,11 +296,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 16时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 17时35分]"
         },
         {
           "title": "金价银价又涨了",
