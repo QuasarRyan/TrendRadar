@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T19:27:52.880746+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-01-07T21:02:45.687081+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
@@ -312,7 +312,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
@@ -343,8 +343,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 21时02分]"
         },
         {
           "title": "印度印孚瑟斯技术有限公司与亚马逊云服务合作，加速企业采用生成式人工智能。",
