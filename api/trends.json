@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:06:14.325372+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-01-08T13:33:15.761522+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时06分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 13时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -238,8 +238,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 13时33分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
