@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T19:28:22.235507+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-01-08T21:02:01.499080+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
@@ -159,7 +159,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -170,6 +170,18 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "三九天喝苹果水",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%B9%9D%E5%A4%A9%E5%96%9D%E8%8B%B9%E6%9E%9C%E6%B0%B4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 21时02分]"
+        },
+        {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
           "url": "https://www.zhihu.com/question/1992511254795870608",
           "source": "知乎",
@@ -179,18 +191,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时45分 ~ 15时32分]"
-        },
-        {
-          "title": "三九天喝苹果水",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%B9%9D%E5%A4%A9%E5%96%9D%E8%8B%B9%E6%9E%9C%E6%B0%B4&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 19时28分]"
         },
         {
           "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
@@ -295,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时12分 ~ 19时28分]"
+          "appearance_count": 15,
+          "time_info": "[10时12分 ~ 21时02分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
