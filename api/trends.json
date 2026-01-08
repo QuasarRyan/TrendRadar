@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T03:27:00.357965+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-09T04:33:36.853053+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "约翰·特纳斯（John Ternus）是接替苹果长期首席执行官库克的热门人选。（纽约时报）",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "苹果养生吃法不只煮水",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%BB%E7%94%9F%E5%90%83%E6%B3%95%E4%B8%8D%E5%8F%AA%E7%85%AE%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         }
       ]
     },
@@ -47,18 +58,6 @@
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
-        {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时27分]"
-        },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
           "url": "https://wallstreetcn.com/articles/3762848",
@@ -68,8 +67,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时33分]"
+        },
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时33分]"
         }
       ]
     },
@@ -86,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时33分]"
         }
       ]
     }
