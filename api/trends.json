@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T21:02:01.499080+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2026-01-08T21:50:14.504716+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
         },
         {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
@@ -178,8 +189,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 21时50分]"
         },
         {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
@@ -284,7 +295,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -295,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时12分 ~ 21时02分]"
+          "appearance_count": 17,
+          "time_info": "[10时12分 ~ 21时50分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -331,6 +342,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
+          "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
         },
         {
           "title": "近30年来首次！黄金或已超越美债 成全球头号储备资产",
