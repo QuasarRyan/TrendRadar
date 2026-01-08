@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T02:39:48.354327+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-01-09T03:27:00.357965+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时27分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时27分]"
         }
       ]
     },
@@ -86,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时27分]"
         }
       ]
     }
