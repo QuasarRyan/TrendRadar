@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T03:26:40.873139+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-01-10T04:33:12.222165+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,25 @@
           "ranks": [
             13,
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时33分]"
+        },
+        {
+          "title": "苹果煮水喝孩子越喝越长个儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%AD%A9%E5%AD%90%E8%B6%8A%E5%96%9D%E8%B6%8A%E9%95%BF%E4%B8%AA%E5%84%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 04时33分]"
         },
         {
           "title": "苹果恐创1991年以来最长连跌天数",
@@ -43,18 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时26分]"
-        },
-        {
-          "title": "苹果煮水喝孩子越喝越长个儿",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%AD%A9%E5%AD%90%E8%B6%8A%E5%96%9D%E8%B6%8A%E9%95%BF%E4%B8%AA%E5%84%BF%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时26分]"
         }
       ]
     },
@@ -73,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -86,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
