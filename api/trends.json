@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T17:36:16.200403+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-01-09T18:32:27.664123+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时14分 ~ 18时32分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -376,7 +376,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
@@ -421,8 +421,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时14分 ~ 18时32分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -433,8 +433,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时33分 ~ 17时36分]"
+          "appearance_count": 8,
+          "time_info": "[13时33分 ~ 18时32分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
