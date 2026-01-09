@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T10:14:59.175827+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-01-09T12:06:15.794829+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 10时14分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时06分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -40,9 +40,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时06分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -150,6 +150,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "非农2025年“收官”报告今晚出炉，市场预计将出现温和增长，为2026年打下稳定基调。米兰呼吁大降150个基点，非农数据能否为激进预期再添助力？当前现货黄金多空拉锯，美股三大股指信号不一，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260109103803008800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "生科ETF收跌超2.5%，半导体ETF跌约1.6%，领跌美股行业ETF，标普能源板块创4月以来最大单日涨幅",
           "url": "https://wallstreetcn.com/livenews/3033556",
           "source": "华尔街见闻-快讯",
@@ -164,7 +175,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果养生吃法不只煮水",
@@ -180,6 +191,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时33分 ~ 10时14分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，低硫燃料油涨超3%，SC原油涨超2%，燃料油、苹果、沪铝涨超1%。跌幅方面，多晶硅跌超7%，沪镍跌超4%，烧碱、硅铁、BR橡胶、焦炭、纯碱、沪银跌超2%，氧化铝、20号胶、橡胶跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260109113055726800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "苹果(AAPL.O)将于2月24日举行线上年度股东大会。",
@@ -246,7 +268,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
@@ -286,11 +308,12 @@
           "url": "https://wallstreetcn.com/articles/3762888",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时06分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -345,7 +368,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
