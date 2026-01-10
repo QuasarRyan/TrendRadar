@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:29:34.743617+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-01-10T14:40:44.966950+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -132,11 +132,12 @@
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 14时40分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -174,11 +175,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时40分]"
         },
         {
           "title": "金价",
@@ -186,11 +188,12 @@
           "source": "微博",
           "ranks": [
             6,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时40分]"
         },
         {
           "title": "金价波动",
@@ -230,8 +233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 14时40分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
