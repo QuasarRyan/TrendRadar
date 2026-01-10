@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T18:28:49.535045+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-01-10T19:24:04.473814+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果 M5Max 游戏性能将超 RTX5070Ti，这会给独立显卡市场带来哪些冲击？",
@@ -35,6 +35,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时42分 ~ 07时28分]"
+        },
+        {
+          "title": "蒸苹果蒸出了果冻",
+          "url": "https://s.weibo.com/weibo?q=%E8%92%B8%E8%8B%B9%E6%9E%9C%E8%92%B8%E5%87%BA%E4%BA%86%E6%9E%9C%E5%86%BB&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "苹果恐创1991年以来最长连跌天数",
@@ -137,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 19时24分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -236,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 19时24分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
