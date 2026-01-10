@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T02:39:05.477887+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-01-11T03:21:46.577913+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 03时21分]"
         }
       ]
     },
@@ -47,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         }
       ]
     },
@@ -65,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         }
       ]
     }
