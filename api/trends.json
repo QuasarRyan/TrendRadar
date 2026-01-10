@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T19:24:04.473814+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-01-10T20:54:42.652625+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -148,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 20时54分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -247,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 20时54分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -286,6 +286,34 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
+          "url": "https://www.zhihu.com/question/571427849",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -311,23 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
-          "url": "https://www.zhihu.com/question/571427849",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         }
       ]
     }
