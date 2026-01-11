@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-11T22:26:57.996936+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-01-11T23:27:55.298364+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
+        {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时27分]"
+        },
         {
           "title": "金价将走向何方",
           "url": "https://www.toutiao.com/trending/7593981430330297862/",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时35分 ~ 17时29分]"
-        },
-        {
-          "title": "金价飙升 多家银行公告提醒",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时26分]"
         },
         {
           "title": "金价飙升银行紧急提示",
@@ -103,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时25分 ~ 22时26分]"
+          "appearance_count": 27,
+          "time_info": "[01时25分 ~ 23时27分]"
         },
         {
           "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
@@ -131,11 +132,12 @@
           "ranks": [
             3,
             7,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时27分]"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -186,11 +188,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时27分]"
         },
         {
           "title": "下周看点：美股Q4财报季拉开帷幕",
