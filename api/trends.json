@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T14:42:31.864951+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-01-11T15:28:15.329649+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时25分 ~ 14时42分]"
+          "appearance_count": 16,
+          "time_info": "[01时25分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价银价大幅波动原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%B9%85%E6%B3%A2%E5%8A%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 15时28分]"
+        },
+        {
+          "title": "金价新高不断 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7593887858499259940/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
@@ -55,23 +83,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 10时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价新高不断 还能上车吗",
-          "url": "https://www.toutiao.com/trending/7593887858499259940/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         }
       ]
     },
