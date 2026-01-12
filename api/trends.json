@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T15:35:27.293599+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-01-12T16:42:39.058302+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时42分]"
         },
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -59,7 +60,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -102,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 16时42分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -116,8 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 16时42分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
