@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T01:31:30.011990+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-01-13T02:43:27.364993+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -60,7 +60,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时43分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -89,19 +89,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时43分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2255324",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时43分]"
         }
       ]
     },
