@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T06:31:12.576276+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-01-14T07:26:43.534809+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -66,6 +66,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
           "title": "美国总统特朗普赞赏美股的表现。",
           "url": "https://wallstreetcn.com/livenews/3036366",
           "source": "华尔街见闻-快讯",
@@ -94,11 +105,12 @@
           "url": "https://wallstreetcn.com/livenews/3036425",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时26分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
@@ -118,7 +130,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -186,11 +198,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时26分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -234,14 +247,14 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时26分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价",
@@ -256,6 +269,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 06时31分]"
+        },
+        {
+          "title": "金价为何持续走强",
+          "url": "https://www.toutiao.com/trending/7594774199927836179/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     },
