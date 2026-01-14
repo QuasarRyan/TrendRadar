@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:46:10.586728+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-01-14T15:33:33.006356+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[00时41分 ~ 06时31分]"
         },
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 15时33分]"
+        },
+        {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
           "url": "https://www.cls.cn/detail/2256863",
           "source": "财联社热门",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时26分 ~ 14时46分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 14时46分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -183,11 +183,12 @@
           "ranks": [
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 14时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 15时33分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
@@ -250,8 +251,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时33分]"
         },
         {
           "title": "金价为何持续走强",
@@ -282,7 +283,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
