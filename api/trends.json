@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:13:39.338407+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-14T13:33:18.367449+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时13分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时33分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -52,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 13时33分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -161,7 +162,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -184,8 +185,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 12时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 13时33分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
@@ -194,9 +195,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "第四季度中国手机市场出货量苹果第一，全年海外手机市场荣耀增速第一",
+          "url": "https://wallstreetcn.com/livenews/3036656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "苹果、高通争相抢购高端电子级玻璃纤维布",
@@ -205,7 +217,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -247,7 +259,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -307,11 +319,12 @@
             1,
             25,
             22,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 12时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 13时33分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
