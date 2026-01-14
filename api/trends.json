@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T18:34:22.083901+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-01-14T19:29:17.832813+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 19时29分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -221,11 +221,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
