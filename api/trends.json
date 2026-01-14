@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T07:26:43.534809+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-01-14T10:24:00.737197+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -31,6 +31,29 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 06时31分]"
+        },
+        {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 10时24分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -64,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         },
         {
           "title": "美国总统特朗普赞赏美股的表现。",
@@ -199,11 +211,12 @@
           "ranks": [
             3,
             1,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 10时24分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -214,11 +227,12 @@
             23,
             19,
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时24分]"
         }
       ]
     },
@@ -247,8 +261,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 10时24分]"
         }
       ]
     },
@@ -277,7 +291,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
