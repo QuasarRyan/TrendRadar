@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T02:49:00.687378+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-01-16T03:31:50.647602+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 03时31分]"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -65,11 +66,12 @@
           "ranks": [
             20,
             21,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "苹果公司股价短线跳水，跌超0.5%，刷新日低至258美元。",
@@ -77,11 +79,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时31分]"
         },
         {
           "title": "苹果折叠屏机模上手",
@@ -108,8 +111,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "金价",
@@ -119,8 +122,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 03时31分]"
         }
       ]
     },
@@ -138,8 +141,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时31分]"
         }
       ]
     },
