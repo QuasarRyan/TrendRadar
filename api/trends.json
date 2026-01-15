@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T21:50:30.120993+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-01-15T22:33:39.316680+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时12分 ~ 21时50分]"
+          "appearance_count": 14,
+          "time_info": "[10时12分 ~ 22时33分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -185,6 +185,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3038052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "台积电美股盘前涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3037925",
           "source": "华尔街见闻-快讯",
@@ -194,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
+          "url": "https://flash.jin10.com/detail/20260115215848815800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
@@ -265,8 +287,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时33分]"
         },
         {
           "title": "金价",
@@ -274,11 +296,12 @@
           "source": "微博",
           "ranks": [
             8,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时33分]"
         },
         {
           "title": "金价暴涨 金店怎么还亏钱了",
@@ -320,7 +343,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -339,7 +362,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -352,11 +375,12 @@
             10,
             11,
             14,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时08分 ~ 21时50分]"
+          "appearance_count": 13,
+          "time_info": "[12时08分 ~ 22时33分]"
         },
         {
           "title": "国内Apple Pay能绑Visa卡了",
@@ -398,6 +422,17 @@
           "time_info": "[12时08分 ~ 13时34分]"
         },
         {
+          "title": "死了么 App 突然遭下架，苹果和安卓应用商店均无法搜索到，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/1995245673709265967",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "AppleWatch充电器成美甲神器",
           "url": "https://s.weibo.com/weibo?q=%23AppleWatch%E5%85%85%E7%94%B5%E5%99%A8%E6%88%90%E7%BE%8E%E7%94%B2%E7%A5%9E%E5%99%A8%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -407,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "苹果折叠屏机模上手",
+          "url": "https://www.toutiao.com/trending/7595528135144115738/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
@@ -459,11 +505,12 @@
           "url": "https://wallstreetcn.com/livenews/3038041",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时33分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
@@ -506,8 +553,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 22时33分]"
         }
       ]
     },
