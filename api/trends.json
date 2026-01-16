@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T19:27:36.065080+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-01-16T21:02:07.318834+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时20分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[10时20分 ~ 21时02分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -228,8 +228,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时44分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时44分 ~ 21时02分]"
         },
         {
           "title": "苹果为什么不做富人用的奢侈版手机?",
@@ -262,6 +262,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 07时29分]"
+        },
+        {
+          "title": "如何看待 2026 年 1 月 15 日 Apple Pay 正式支持国内八家银行发行的 Visa 单标国际信用卡？",
+          "url": "https://www.zhihu.com/question/1995047434200556391",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 21时02分]"
         },
         {
           "title": "联手谷歌后苹果AI有哪些看点",
@@ -297,18 +310,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时31分]"
-        },
-        {
-          "title": "如何看待 2026 年 1 月 15 日 Apple Pay 正式支持国内八家银行发行的 Visa 单标国际信用卡？",
-          "url": "https://www.zhihu.com/question/1995047434200556391",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时27分]"
         },
         {
           "title": "苹果折叠屏机模上手",
