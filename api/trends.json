@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:59:07.373225+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-01-17T12:40:04.188910+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[00时39分 ~ 11时59分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 12时40分]"
+        },
+        {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
           "url": "https://wallstreetcn.com/articles/3763450",
           "source": "华尔街见闻",
@@ -44,19 +58,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时31分 ~ 06时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 11时59分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -216,11 +217,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 12时40分]"
         },
         {
           "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
@@ -272,11 +274,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 12时40分]"
         }
       ]
     }
