@@ -1,53 +1,11 @@
 {
-  "generated_at": "2026-01-18T14:41:56.642832+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-01-18T15:27:31.889292+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
-          "url": "https://wallstreetcn.com/articles/3763504",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "中国大规模抛售美债意味着什么",
-          "url": "https://www.toutiao.com/trending/7596539083501866505/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时41分]"
-        },
-        {
-          "title": "全球狂买美债 中国为何“大甩卖”",
-          "url": "https://www.toutiao.com/trending/7596537658717785642/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果首款折叠屏手机可能长这样",
@@ -71,6 +29,60 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "苹果关东煮",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%85%B3%E4%B8%9C%E7%85%AE&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
+          "url": "https://wallstreetcn.com/articles/3763504",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "全球狂买美债 中国为何“大甩卖”",
+          "url": "https://www.toutiao.com/trending/7596537658717785642/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时27分]"
+        },
+        {
+          "title": "中国大规模抛售美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7596539083501866505/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时41分]"
         }
       ]
     },
