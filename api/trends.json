@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-01-18T12:11:00.371031+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-01-18T13:31:41.428556+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "苹果 Apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周末在家煮碗苹果水",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E5%9C%A8%E5%AE%B6%E7%85%AE%E7%A2%97%E8%8B%B9%E6%9E%9C%E6%B0%B4%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
@@ -35,6 +18,56 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "全球狂买美债 中国为何“大甩卖”",
+          "url": "https://www.toutiao.com/trending/7596537658717785642/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "中国大规模抛售美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7596539083501866505/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周末在家煮碗苹果水",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E5%9C%A8%E5%AE%B6%E7%85%AE%E7%A2%97%E8%8B%B9%E6%9E%9C%E6%B0%B4%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "苹果首款折叠屏手机可能长这样",
+          "url": "https://www.toutiao.com/trending/7596347326986895403/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
