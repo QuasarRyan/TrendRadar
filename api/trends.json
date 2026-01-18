@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:26:00.700531+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-01-18T23:27:42.236177+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -90,7 +90,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 10时28分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     }
