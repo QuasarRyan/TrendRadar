@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-18T07:26:52.878552+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-01-18T10:28:15.307365+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周末在家煮碗苹果水",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E5%9C%A8%E5%AE%B6%E7%85%AE%E7%A2%97%E8%8B%B9%E6%9E%9C%E6%B0%B4%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 1,
@@ -30,11 +47,12 @@
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 10时28分]"
         }
       ]
     }
