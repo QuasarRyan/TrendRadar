@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T15:27:31.889292+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-01-18T16:35:47.197898+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[13时31分 ~ 14时41分]"
         },
         {
+          "title": "苹果关东煮",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%85%B3%E4%B8%9C%E7%85%AE&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时35分]"
+        },
+        {
           "title": "周末在家煮碗苹果水",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E5%9C%A8%E5%AE%B6%E7%85%AE%E7%A2%97%E8%8B%B9%E6%9E%9C%E6%B0%B4%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "苹果关东煮",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%85%B3%E4%B8%9C%E7%85%AE&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         }
       ]
     },
@@ -66,11 +67,12 @@
           "ranks": [
             7,
             9,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时35分]"
         },
         {
           "title": "中国大规模抛售美债意味着什么",
