@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:29:07.753944+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-01-19T21:06:19.664766+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 21时06分]"
         },
         {
           "title": "糖霜苹果",
@@ -29,8 +29,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 21时06分]"
         },
         {
           "title": "沈逸回应糖霜苹果",
@@ -69,6 +69,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
+          "url": "https://www.zhihu.com/question/1994879091791385576",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "Counterpoint：苹果(AAPL.O)iPhone中国出货量第四季度同比增长28%。",
           "url": "https://flash.jin10.com/detail/20260119140511652800",
           "source": "金十数据",
@@ -78,12 +89,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "苹果将改为一年两次发布新品",
+          "url": "https://www.douyin.com/hot/2373017",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "苹果重新夺回中国手机市场第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%87%8D%E6%96%B0%E5%A4%BA%E5%9B%9E%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E7%AC%AC%E4%B8%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -130,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
