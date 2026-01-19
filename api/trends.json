@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T23:35:29.828678+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-01-20T00:39:35.353488+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -15,192 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时43分 ~ 23时35分]"
-        },
-        {
-          "title": "糖霜苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            16,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时43分 ~ 23时35分]"
-        },
-        {
-          "title": "沈逸回应糖霜苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%80%B8%E5%9B%9E%E5%BA%94%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 18时38分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
           "url": "https://www.zhihu.com/question/1994879091791385576",
           "source": "知乎",
           "ranks": [
-            19,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 23时35分]"
-        },
-        {
-          "title": "Counterpoint：苹果公司第四季度iPhone在中国的出货量同比增长28%。",
-          "url": "https://wallstreetcn.com/livenews/3039558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时36分]"
-        },
-        {
-          "title": "苹果将改为一年两次发布新品",
-          "url": "https://www.douyin.com/hot/2373017",
-          "source": "抖音",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时36分]"
-        },
-        {
-          "title": "商品期货收盘，沪锡主力合约跌近6%，碳酸锂、BR橡胶跌超3%，玻璃、铁矿石、沪铅、菜籽粕、原木、苹果、生猪跌超2%。纯苯涨超3%，沪银涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3039591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "00时39分"
         },
         {
-          "title": "Counterpoint：苹果(AAPL.O)iPhone中国出货量第四季度同比增长28%。",
-          "url": "https://flash.jin10.com/detail/20260119140511652800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "苹果重新夺回中国手机市场第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%87%8D%E6%96%B0%E5%A4%BA%E5%9B%9E%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E7%AC%AC%E4%B8%80%23&t=31&band_rank=29&Refer=top",
+          "title": "糖霜苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 19时29分]"
-        },
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时26分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时36分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3039552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "00时39分"
         }
       ]
     },
@@ -209,27 +47,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "财晓得丨金价涨成这样，到什么位置了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时17分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "00时39分"
+        },
+        {
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
