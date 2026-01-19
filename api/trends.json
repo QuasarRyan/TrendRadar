@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T02:42:42.481165+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-20T03:25:42.358637+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时25分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -26,8 +26,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时25分]"
         },
         {
           "title": "糖霜苹果",
@@ -38,8 +38,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时25分]"
+        },
+        {
+          "title": "苹果将改为一年两次发布新品",
+          "url": "https://www.douyin.com/hot/2373017",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -56,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时25分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -66,11 +77,12 @@
           "ranks": [
             20,
             9,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时25分]"
         }
       ]
     },
@@ -86,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时25分]"
         }
       ]
     },
