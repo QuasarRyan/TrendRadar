@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:38:06.620050+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-01-19T19:29:07.753944+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 18时38分]"
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时29分]"
+        },
+        {
+          "title": "糖霜苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            16,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时29分]"
         },
         {
           "title": "沈逸回应糖霜苹果",
@@ -26,19 +40,6 @@
             4,
             27,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 18时38分]"
-        },
-        {
-          "title": "糖霜苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            16,
-            22
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -92,8 +93,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 19时29分]"
         },
         {
           "title": "美股明日休市 金银油交易提前结束",
