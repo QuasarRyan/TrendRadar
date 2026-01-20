@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T17:41:04.830973+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-01-20T18:37:27.725237+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -17,11 +17,12 @@
             10,
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 17时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 18时37分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -75,6 +76,17 @@
           "time_info": "[07时28分 ~ 12时11分]"
         },
         {
+          "title": "小米超苹果成中国手机激活量第二",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%B6%85%E8%8B%B9%E6%9E%9C%E6%88%90%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E6%BF%80%E6%B4%BB%E9%87%8F%E7%AC%AC%E4%BA%8C%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "江宁婆婆科普糖霜苹果",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%81%E5%A9%86%E5%A9%86%E7%A7%91%E6%99%AE%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -100,8 +112,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时28分 ~ 17时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时28分 ~ 18时37分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -154,7 +166,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
@@ -207,7 +219,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -240,8 +252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 17时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 18时37分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -264,11 +276,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4%E6%AF%8F%E7%9B%8E%E5%8F%B84700%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时37分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
