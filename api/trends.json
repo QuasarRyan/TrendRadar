@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T18:37:27.725237+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-01-20T19:32:15.944043+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -18,11 +18,12 @@
             13,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 19时32分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -82,9 +83,20 @@
           "ranks": [
             14
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 19时32分]"
+        },
+        {
+          "title": "投行Evercore ISI：将苹果(AAPL.O)加入战术超配名单。",
+          "url": "https://flash.jin10.com/detail/20260120190401464800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "19时32分"
         },
         {
           "title": "江宁婆婆科普糖霜苹果",
@@ -112,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 18时37分]"
+          "appearance_count": 13,
+          "time_info": "[07时28分 ~ 19时32分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -252,8 +264,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 19时32分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -277,11 +289,13 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时32分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
