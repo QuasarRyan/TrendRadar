@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T12:11:41.198326+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-01-20T13:37:00.560131+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时37分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -131,7 +131,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -160,8 +160,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时37分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -191,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时37分]"
         },
         {
           "title": "决定黄金价格的三大属性",
