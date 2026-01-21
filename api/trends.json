@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T13:36:47.066305+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-01-21T14:49:48.832343+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 14时49分]"
+        },
+        {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时36分]"
+          "time_info": "[10时23分 ~ 14时49分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时31分 ~ 13时36分]"
-        },
-        {
-          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
-          "url": "https://www.cls.cn/detail/2264320",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时36分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -102,6 +102,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 14时49分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
@@ -151,17 +163,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
-          "url": "https://www.cls.cn/detail/2264507",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20260121050048735800",
           "source": "金十数据",
@@ -198,7 +199,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "格陵兰岛争端为啥会推高金价",
@@ -234,8 +235,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时49分]"
         },
         {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
@@ -243,11 +244,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时49分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -292,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "金店店员对金价飙涨已麻木",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%BA%97%E5%91%98%E5%AF%B9%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E5%B7%B2%E9%BA%BB%E6%9C%A8%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         }
       ]
     },
@@ -312,8 +325,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 13时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 14时49分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -339,8 +352,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时30分 ~ 13时36分]"
+          "appearance_count": 7,
+          "time_info": "[06时30分 ~ 14时49分]"
         },
         {
           "title": "花旗：日债动荡或导致高达1300亿美元的美债抛售",
@@ -390,7 +403,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -437,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "如何看待 2025 年国内手机激活量 vivo 力压苹果和小米成为第一？",
+          "url": "https://www.zhihu.com/question/1997207760257966295",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         }
       ]
     },
@@ -481,6 +505,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "对价格“不敏感”的央行需求或将支撑黄金",
+          "url": "https://flash.jin10.com/detail/20260121143821991800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260121115138760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
       "match_count": 1,
       "titles": [
@@ -494,23 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
-          "url": "https://flash.jin10.com/detail/20260121115138760800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         }
       ]
     }
