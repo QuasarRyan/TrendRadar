@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T22:39:50.912850+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2026-01-21T23:41:34.876315+08:00",
+  "total_titles_processed": 2093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 22时39分]"
+          "appearance_count": 16,
+          "time_info": "[07时31分 ~ 23时41分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -80,6 +80,17 @@
           "time_info": "[07时31分 ~ 13时36分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，纳指期货涨0.4%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
           "url": "https://www.cls.cn/detail/2264507",
           "source": "财联社热门",
@@ -106,6 +117,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时38分 ~ 22时39分]"
+        },
+        {
+          "title": "美股三大指数涨幅扩大，纳指涨超1%，道指、标普500指数涨近1%。特朗普此前表示，股市将会翻倍。",
+          "url": "https://flash.jin10.com/detail/20260121233511554800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
@@ -229,7 +251,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -240,7 +262,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -273,7 +295,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -317,9 +339,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，标普能源板块有望打破去年所创收盘历史最高位",
+          "url": "https://wallstreetcn.com/livenews/3041360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "强生第四季度调整后每股收益2.46美元，上年同期2.04美元，预估2.47美元。 第四季度销售额245.6亿美元，同比增长9.1%，预估241.5亿美元。 强生预计2026年销售额1,000亿美元至1,010亿美元，市场预估988.8亿美元。 强生预计2026年调整后每股收益11.43美元至11.63美元。 强生美股盘前跌超2%。",
@@ -336,7 +369,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -415,6 +448,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 21时05分]"
+        },
+        {
+          "title": "贝森特称日债抛售波及美债、已与日本对口官员沟通，日财相呼吁市场冷静",
+          "url": "https://wallstreetcn.com/articles/3763746",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "贝森特称丹麦在美债中的投资地位“无关紧要”",
@@ -501,6 +545,20 @@
           "time_info": "[00时44分 ~ 10时23分]"
         },
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时37分 ~ 23时41分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -513,20 +571,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 10时23分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时37分 ~ 22时39分]"
         },
         {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
@@ -647,8 +691,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时49分 ~ 23时41分]"
         },
         {
           "title": "苹果糖",
