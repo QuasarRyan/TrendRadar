@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T13:36:18.983372+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-01-22T14:47:38.766462+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 13时36分]"
+          "appearance_count": 7,
+          "time_info": "[07时33分 ~ 14时47分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时24分 ~ 14时47分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时36分]"
         },
         {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
@@ -202,8 +202,20 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 14时47分]"
+        },
         {
           "title": "美国总统特朗普赞扬苹果和丰田的投资。",
           "url": "https://wallstreetcn.com/livenews/3041454",
@@ -228,17 +240,6 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
-          "url": "https://www.cls.cn/detail/2265956",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
           "title": "苹果推出新春优惠",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E6%96%B0%E6%98%A5%E4%BC%98%E6%83%A0%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -259,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "苹果官网降价",
+          "url": "https://www.douyin.com/hot/2375778",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "苹果涨幅迅速扩大至1.5%。",
@@ -294,6 +306,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "最不能接受苹果手机的缺点",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%8F%97%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E7%BC%BA%E7%82%B9&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "苹果官宣限时促销，官网最高降价1000元",
           "url": "https://wallstreetcn.com/livenews/3041713",
           "source": "华尔街见闻-快讯",
@@ -311,7 +334,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         }
@@ -341,11 +364,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时47分]"
         },
         {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
@@ -406,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时24分 ~ 14时47分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
