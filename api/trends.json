@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T17:38:37.937772+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-01-23T18:34:37.100237+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
@@ -187,7 +187,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -266,8 +266,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "苹果硬件主管特纳斯接管核心设计团队 或成库克头号接班人",
@@ -350,7 +350,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }
@@ -482,8 +482,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时20分 ~ 17时38分]"
+          "appearance_count": 11,
+          "time_info": "[10时20分 ~ 18时34分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
