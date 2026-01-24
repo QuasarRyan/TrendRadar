@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:24:46.484320+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-01-24T20:55:51.309417+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 20时55分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -27,11 +27,12 @@
             11,
             4,
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 20时55分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -229,8 +230,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时55分]"
         },
         {
           "title": "金价暴涨胖东来金店挤爆了",
@@ -272,8 +273,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时55分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -312,11 +313,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时55分]"
         }
       ]
     },
