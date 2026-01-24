@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T01:25:41.189712+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2026-01-25T02:39:48.822336+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     },
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -80,11 +80,12 @@
           "url": "https://www.cls.cn/detail/2268603",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     },
@@ -100,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     }
