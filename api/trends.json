@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T06:27:47.484073+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-25T07:27:10.681268+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     },
@@ -54,11 +55,12 @@
             9,
             6,
             7,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -83,11 +85,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     },
@@ -103,8 +106,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     }
