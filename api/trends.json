@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T04:30:39.794888+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-01-25T05:26:07.953870+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时26分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 05时26分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时26分]"
         }
       ]
     },
@@ -52,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时26分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -84,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时26分]"
         }
       ]
     },
@@ -101,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 05时26分]"
         }
       ]
     }
