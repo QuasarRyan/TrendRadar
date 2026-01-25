@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T20:57:58.780961+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-01-25T21:38:50.284902+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             17,
             12,
             14,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时42分 ~ 20时57分]"
+          "appearance_count": 9,
+          "time_info": "[14时42分 ~ 21时38分]"
         },
         {
           "title": "金价波动",
@@ -180,11 +181,12 @@
             6,
             8,
             13,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 21时38分]"
         }
       ]
     },
@@ -198,11 +200,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时38分]"
         }
       ]
     }
