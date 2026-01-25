@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:30:50.909203+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-01-25T18:31:25.872895+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 17时30分]"
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 18时31分]"
         },
         {
           "title": "金价波动",
@@ -100,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 17时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 18时31分]"
         },
         {
           "title": "警惕美股波动性卷土重来",
@@ -174,11 +174,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时31分]"
         }
       ]
     }
