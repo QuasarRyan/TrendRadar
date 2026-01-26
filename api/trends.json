@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-26T13:38:48.082985+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-01-26T14:50:37.257399+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 10,
       "titles": [
+        {
+          "title": "杨德龙：国际金价下一目标价1万美元",
+          "url": "https://www.toutiao.com/trending/7599480136756366899/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时50分]"
+        },
         {
           "title": "分析师：金价或继续受益于美元走弱",
           "url": "https://flash.jin10.com/detail/20260126114640038800",
@@ -19,16 +32,29 @@
           "time_info": "12时21分"
         },
         {
-          "title": "杨德龙：国际金价下一目标价1万美元",
-          "url": "https://www.toutiao.com/trending/7599480136756366899/",
-          "source": "今日头条",
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
           "ranks": [
-            18,
-            4
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时50分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时50分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -41,29 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 13时38分]"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时38分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时38分]"
         },
         {
           "title": "金价首破5000美元，分析师：避险潮推动下“涨势势不可挡”",
@@ -197,8 +200,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时50分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
