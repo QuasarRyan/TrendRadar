@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T14:48:51.565867+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-01-27T15:35:58.820333+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时31分 ~ 14时48分]"
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 15时35分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -226,6 +226,17 @@
           "time_info": "[10时26分 ~ 12时13分]"
         },
         {
+          "title": "银行家们表示，土耳其央行上周买入了近20亿美元，其中约65亿美元的增幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260127151448862800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
           "url": "https://flash.jin10.com/detail/20260127032144088800",
           "source": "金十数据",
@@ -266,8 +277,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 12时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 15时35分]"
         },
         {
           "title": "标普500日内涨幅达0.5%，报6953.46点，成分股苹果公司涨幅扩大至3%。 纳斯达克综合指数日内涨幅达0.5%，报23640.5点。",
@@ -407,7 +418,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
