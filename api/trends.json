@@ -1,403 +1,44 @@
 {
-  "generated_at": "2026-01-28T23:42:19.798966+08:00",
-  "total_titles_processed": 2108,
+  "generated_at": "2026-01-29T00:49:35.318211+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 15时34分]"
-        },
-        {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时06分 ~ 23时42分]"
-        },
-        {
-          "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260128050534482800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
-          "url": "https://wallstreetcn.com/livenews/3045613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "美股部分中概股走势强劲",
-          "url": "https://flash.jin10.com/detail/20260127235351426800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "金十图示：2026年01月27日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260128050530858800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时07分]"
-        },
-        {
-          "title": "美股费城半导体指数涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20260127235011567800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
-          "url": "https://flash.jin10.com/detail/20260128050333486800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时39分 ~ 23时42分]"
-        },
-        {
-          "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3044985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时31分]"
-        },
-        {
-          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3045008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3044921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时34分]"
-        },
-        {
-          "title": "康宁(GLW.N)美股盘前涨5.3%，即将公布业绩；摩根大通此前上调该公司的目标价。",
-          "url": "https://flash.jin10.com/detail/20260128173357657800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "美股期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.47%，道指期货涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3045325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "星巴克第一财季净营收99亿美元，预估96.5亿美元。 第一财季调整后每股收益0.56美元，预估0.59美元。 第一财季调整后运营利润率10.1％，预估10.3％。 第一财季同店销售增长4％，预估增长1.97％。 星巴克预计全年调整后每股收益2.15美元至2.40美元。 星巴克预计全年美国同店销售至少增长3％，市场预估增长2.85％。 星巴克预计全年同店销售至少增长3％，市场预估增长2.83％。 星巴克在2026财年第一财季关闭了165家门店。 星巴克美股盘前涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3045603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
-          "url": "https://wallstreetcn.com/livenews/3045005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
-          "url": "https://wallstreetcn.com/livenews/3045316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3045359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3045000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3045636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
-          "url": "https://wallstreetcn.com/livenews/3044996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "康宁美股盘前下挫，现跌超5%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "康宁四季度核心销售额为44.1亿美元，预估43.6亿美元。 四季度核心每股收益0.72美元，预估0.7美元。 康宁预计第一季度核心销售额为42亿至43亿美元，市场预估42.5亿美元。 康宁预计第一季度核心每股收益0.66-0.7美元，市场预估67美元。 康宁美股盘前涨幅收窄至2%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
-          "url": "https://wallstreetcn.com/livenews/3045460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
-          "url": "https://wallstreetcn.com/livenews/3045661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "半导体ETF美股盘初涨1.92%，全球科技股指数ETF涨0.91%，科技行业ETF涨0.84%，领跑行业ETF。",
-          "url": "https://wallstreetcn.com/livenews/3045657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
-          "url": "https://flash.jin10.com/detail/20260128213140703800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "美股半导体指数涨2.4%，创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3044981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 5,
       "titles": [
         {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 19时31分]"
-        },
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
+          "title": "渣打：金价出现任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 15时34分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
+          "title": "金价屡创历史新高意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时51分 ~ 17时42分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -407,370 +48,58 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时48分 ~ 23时42分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时06分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            6,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 23时42分]"
-        },
-        {
-          "title": "渣打：金价出现任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时41分 ~ 23时42分]"
-        },
-        {
-          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
-          "url": "https://wallstreetcn.com/livenews/3045543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时42分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时34分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时39分]"
-        },
-        {
-          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
-          "url": "https://wallstreetcn.com/livenews/3045007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "黄金价格短线持续走高，现货黄金向上触及5310美元/盎司，日内涨2.52%。纽约期金向上触及5300美元/盎司，日内涨4.28%。",
-          "url": "https://flash.jin10.com/detail/20260128163325569800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "专家谈国际金价加速上涨的背后逻辑",
-          "url": "https://www.toutiao.com/trending/7600335568035122738/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
-          "url": "https://wallstreetcn.com/livenews/3045204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时26分]"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时34分]"
-        },
-        {
-          "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
-          "url": "https://flash.jin10.com/detail/20260128045028664800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/3044896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美元指数日内跌幅达1.0%，报96.0082。 新兴市场货币指数刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3044978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3045675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美元指数DXY日内跌幅达1%，跌破96关口，创2022年2月以来新低。",
-          "url": "https://flash.jin10.com/detail/20260128044641548800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
-          "url": "https://flash.jin10.com/detail/20260128093741134800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3044859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "在特朗普发表评论后，美元指数DXY拉升约10点。",
-          "url": "https://flash.jin10.com/detail/20260128044444108800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美元指数跌超0.8%，创2022年年初以来新低",
-          "url": "https://wallstreetcn.com/livenews/3044966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20260128042630091800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "00时49分"
         }
       ]
     },
     {
-      "keyword_group": "苹果 Apple",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "“最大客户”都让步了！韩媒称三星、海力士一季度向苹果供DRAM价格较上季度翻倍",
-          "url": "https://wallstreetcn.com/articles/3764243",
-          "source": "华尔街见闻",
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时48分]"
-        },
-        {
-          "title": "苹果煮水竟有这么多妙用",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E7%AB%9F%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A6%99%E7%94%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时32分]"
-        },
-        {
-          "title": "康宁公司（GLW，苹果公司供应商）涨幅扩大至18%，创2004年以来盘中新高。 该公司与Meta达成关于数据中心的光缆供应协议。",
-          "url": "https://wallstreetcn.com/livenews/3044868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时39分"
+          "time_info": "00时49分"
         },
         {
-          "title": "标普500指数初步收涨0.4%，科技板块涨1.4%，公用事业板块涨1.2%，能源板块涨0.9%，保健板块跌1.7%。 纳斯达克100指数初步收涨0.8%，成分股中，拉姆研究收涨6.9%，美光科技涨5.4%，西部数据涨4.8%，科磊涨4.7%，希捷科技涨4.6%，Adobe跌2.5%，特许通讯跌5.5%，Roper Technologies Inc.跌9.4%。 联合健康初步收跌19.6%，耐克跌2.9%，波音、家得宝跌1.4%，领跌道指成分股，英伟达、苹果、可口可乐、强生、思科、微软、亚马逊则至少涨超1%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3044981",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "00时49分"
         },
         {
-          "title": "中医推荐三种苹果养生搭配",
-          "url": "https://www.toutiao.com/trending/7599895654634782774/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "两年期美债收益率跌2个基点，长端美债收益率则涨超3.2个基点",
-          "url": "https://wallstreetcn.com/livenews/3044973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美国财长贝森特就强势美元政策发表评论后，长期美债收益率涨幅收窄；10年期收益率现涨2.8个基点，报4.251%。",
-          "url": "https://flash.jin10.com/detail/20260128232103183800",
+          "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260128235421935800",
           "source": "金十数据",
           "ranks": [
-            25
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "00时49分"
         }
       ]
     }
