@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T02:50:04.957100+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-01-29T03:37:13.493213+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时37分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时37分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -38,11 +38,12 @@
           "ranks": [
             6,
             2,
-            14
+            14,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时37分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -52,8 +53,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时37分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -63,19 +64,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时37分]"
         },
         {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 03时37分]"
         }
       ]
     },
@@ -92,8 +94,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时37分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -101,17 +103,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260129013023144800",
-          "source": "金十数据",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -126,8 +117,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 03时37分]"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260129013023144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -136,7 +138,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -154,8 +156,47 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国10年期国债收益率短线波动超1个基点，刷新日高至4.26%上方，两年期美债收益率短线波动超1.5个基点，刷新日高至3.59%上方。标普和道指跌幅略微扩大至超过0.1%，现货黄金持稳于5270美元一线，涨幅超过1.7%。 MSCI新兴市场汇率指数、股票指数双双持稳。",
+          "url": "https://wallstreetcn.com/livenews/3045763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国10年期国债收益率涨1.4个基点，报4.2571%；两年期美债收益率涨1.24个基点，持稳于日高3.5875%附近。 10年期TIPS收益率涨1.47个基点，持稳于日高1.9078%附近，两年期TIPS收益率跌1.50个基点，报0.8312%。 2/10年期美债收益率利差涨0.162个基点，报+66.968个基点。",
+          "url": "https://wallstreetcn.com/livenews/3045754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "通胀预期升温 美债收益率曲线连续第二日走陡",
+          "url": "https://flash.jin10.com/detail/20260129004130534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果CEO库克：明尼阿波利斯事件令我心碎，已与特朗普沟通",
@@ -168,23 +209,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时50分]"
+        },
+        {
+          "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
+          "url": "https://wallstreetcn.com/livenews/3045749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "通胀预期升温 美债收益率曲线连续第二日走陡",
-          "url": "https://flash.jin10.com/detail/20260129004130534800",
-          "source": "金十数据",
+          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3045755",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "03时37分"
         }
       ]
     }
