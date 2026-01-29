@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:50:20.660210+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-29T16:52:47.935814+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -330,9 +330,24 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 16时52分]"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -345,20 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 10时39分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 15时50分]"
         },
         {
           "title": "金价",
@@ -431,7 +432,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "从技术突破到价值落地，智能体开启AI进化新格局",
@@ -443,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
@@ -533,6 +545,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大股指涨跌互现",
+          "url": "https://www.toutiao.com/trending/7600659485685907497/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
