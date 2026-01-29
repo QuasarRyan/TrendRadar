@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:52:39.482933+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-01-29T14:59:57.063894+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -279,11 +279,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 14时59分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -298,6 +299,17 @@
           "time_info": "[00时49分 ~ 12时45分]"
         },
         {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时59分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -309,17 +321,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时48分 ~ 07时34分]"
-        },
-        {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 13时52分]"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -339,11 +340,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时59分]"
         },
         {
           "title": "金价",
@@ -386,7 +388,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
