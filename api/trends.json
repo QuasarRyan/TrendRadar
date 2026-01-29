@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T14:59:57.063894+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-29T15:50:20.660210+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -227,7 +227,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -280,11 +280,12 @@
           "ranks": [
             21,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 14时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 15时50分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -323,6 +324,17 @@
           "time_info": "[02时48分 ~ 07时34分]"
         },
         {
+          "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
+          "url": "https://flash.jin10.com/detail/20260129154110171800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "渣打：金价任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
@@ -341,11 +353,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 15时50分]"
         },
         {
           "title": "金价",
