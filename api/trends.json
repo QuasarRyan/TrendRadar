@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-30T18:44:13.110367+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-01-30T19:36:16.136761+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时39分 ~ 19时36分]"
+        },
         {
           "title": "葛荟婕曝汪峰女儿小苹果身高1.78米",
           "url": "https://www.toutiao.com/trending/7600452026468319278/",
@@ -21,18 +33,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时35分]"
-        },
-        {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 18时44分]"
         },
         {
           "title": "苹果首席财务官：预计3月当季运营支出将在184亿至187亿美元之间。",
@@ -222,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "苹果盘前微跌 AI投资乏力引发市场担忧",
+          "url": "https://flash.jin10.com/detail/20260130184035722800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "苹果(AAPL.O)第一财季iPad净销售额为86亿美元，高于市场预期的81.3亿美元。",
@@ -458,7 +469,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -551,6 +562,19 @@
           "time_info": "[00时54分 ~ 07时35分]"
         },
         {
+          "title": "金价28分钟内暴跌380美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 19时36分]"
+        },
+        {
           "title": "一口气看懂金价涨跌的底层逻辑",
           "url": "https://www.douyin.com/hot/2383551",
           "source": "抖音",
@@ -579,6 +603,17 @@
           "time_info": "[10时39分 ~ 15时01分]"
         },
         {
+          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
           "title": "聚焦新美联储主席，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
           "url": "https://wallstreetcn.com/articles/3764541",
           "source": "华尔街见闻",
@@ -588,19 +623,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
-          "title": "金价28分钟内暴跌380美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            26,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时44分]"
         },
         {
           "title": "金价大幅回落 市场聚焦美联储主席提名",
@@ -633,7 +655,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -672,6 +694,18 @@
           "time_info": "[16时52分 ~ 17时50分]"
         },
         {
+          "title": "金价有望涨至8500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B38500%E7%BE%8E%E5%85%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 19时36分]"
+        },
+        {
           "title": "黄金价格回调开始了吗",
           "url": "https://www.toutiao.com/trending/7600951694344405055/",
           "source": "今日头条",
@@ -683,17 +717,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时01分 ~ 17时50分]"
-        },
-        {
-          "title": "金价有望涨至8500美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B38500%E7%BE%8E%E5%85%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
         },
         {
           "title": "金价史诗级大幅震荡",
@@ -765,7 +788,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -775,8 +798,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 18时44分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 19时36分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -880,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美股上市公司高管密集离场 是落袋为安还是预见危机？",
+          "url": "https://flash.jin10.com/detail/20260130185416724800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美国考虑利用美股经纪商Robinhood为儿童设立“特朗普账户”。",
@@ -1004,7 +1038,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
