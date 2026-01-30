@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-01-30T22:42:35.140534+08:00",
-  "total_titles_processed": 2019,
-  "failed_sources": [],
+  "generated_at": "2026-01-30T23:48:26.771251+08:00",
+  "total_titles_processed": 2090,
+  "failed_sources": [
+    "thepaper",
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
@@ -16,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时39分 ~ 22时42分]"
+          "appearance_count": 15,
+          "time_info": "[10时39分 ~ 23时48分]"
         },
         {
           "title": "葛荟婕曝汪峰女儿小苹果身高1.78米",
@@ -88,6 +91,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "苹果靠降价一天狂赚32亿",
+          "url": "https://www.toutiao.com/trending/7600406128259498047/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时42分 ~ 23时48分]"
         },
         {
           "title": "小米未来有可能超越苹果吗",
@@ -230,7 +245,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -299,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "苹果靠降价一天狂赚32亿",
-          "url": "https://www.toutiao.com/trending/7600406128259498047/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：苹果设备装机量已超过25亿台。",
@@ -826,7 +830,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -856,7 +860,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -878,8 +882,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时35分 ~ 22时42分]"
+          "appearance_count": 20,
+          "time_info": "[07时35分 ~ 23时48分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -907,13 +911,24 @@
           "time_info": "[00时54分 ~ 10时40分]"
         },
         {
+          "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时48分]"
+        },
+        {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指期货跌幅扩大，美元走强，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
           "url": "https://wallstreetcn.com/articles/3764541",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -924,7 +939,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -935,7 +950,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1068,7 +1083,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1184,7 +1199,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         }
