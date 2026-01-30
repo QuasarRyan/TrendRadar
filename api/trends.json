@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T10:40:12.480083+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-01-30T12:47:15.182390+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,12 @@
           "url": "https://wallstreetcn.com/articles/3764518",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 12时47分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -458,8 +459,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 12时47分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -470,8 +471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 12时47分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -599,7 +600,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -608,11 +609,12 @@
           "ranks": [
             2,
             1,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 10时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 12时47分]"
         },
         {
           "title": "金价",
@@ -637,8 +639,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 10时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 12时47分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -677,6 +679,17 @@
           "time_info": "[00时54分 ~ 07时35分]"
         },
         {
+          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
+          "url": "https://www.cls.cn/detail/2275001",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 12时47分]"
+        },
+        {
           "title": "一口气看懂金价涨跌的底层逻辑",
           "url": "https://www.douyin.com/hot/2383551",
           "source": "抖音",
@@ -690,17 +703,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时35分]"
-        },
-        {
-          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
-          "url": "https://www.cls.cn/detail/2275001",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "1 月 29 日现货黄金价格跌幅一度超过 5%，失守 5200 美元关口，为什么会突然出现下跌？",
@@ -721,8 +723,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 12时47分]"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[12时46分 ~ 12时47分]"
         },
         {
           "title": "女子10年前买408克金条 金价已翻5倍",
@@ -781,7 +794,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -803,7 +816,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -811,7 +824,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2/10年期美债收益率至多跌超1.8个基点",
@@ -823,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "分析师：美联储新任主席人选几近确认 长期美债价格承压",
+          "url": "https://flash.jin10.com/detail/20260130121631769800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
