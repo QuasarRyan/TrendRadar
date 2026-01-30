@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:55:09.871042+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-01-30T15:01:50.259038+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "葛荟婕曝汪峰女儿小苹果身高1.78米",
@@ -131,7 +131,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -389,6 +389,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "Melius研究：将苹果(AAPL.O)目标价从345美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20260130142712436800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "苹果被问及第一财季（含假日销售季）和当前季度的关税（成本）、以及整体利润。 CFO称，公司利润率高度喜人。 苹果的关税成本的确处于14亿美元影响区间之中，就像之前预料的那样。",
           "url": "https://wallstreetcn.com/livenews/3046734",
           "source": "华尔街见闻-快讯",
@@ -436,7 +447,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -449,8 +460,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 13时55分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 15时01分]"
         },
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -458,11 +469,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时39分 ~ 15时01分]"
         },
         {
           "title": "金价",
@@ -487,8 +499,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 13时55分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 15时01分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -547,11 +559,12 @@
           "source": "微博",
           "ranks": [
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时39分 ~ 15时01分]"
         },
         {
           "title": "1 月 29 日现货黄金价格跌幅一度超过 5%，失守 5200 美元关口，为什么会突然出现下跌？",
@@ -571,7 +584,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -584,8 +597,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时01分]"
         },
         {
           "title": "女子10年前买408克金条 金价已翻5倍",
@@ -608,6 +621,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -645,8 +669,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 13时55分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 15时01分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 15时01分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -660,18 +696,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时54分 ~ 10时40分]"
-        },
-        {
-          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
-          "url": "https://www.cls.cn/detail/2274922",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 13时55分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
