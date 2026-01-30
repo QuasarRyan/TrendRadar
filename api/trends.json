@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T00:51:14.741687+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-31T01:41:06.495179+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 01时41分]"
         },
         {
           "title": "苹果靠降价一天狂赚32亿",
           "url": "https://www.toutiao.com/trending/7600406128259498047/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 01时41分]"
         },
         {
           "title": "小米未来有可能超越苹果吗",
@@ -44,7 +45,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -54,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 01时41分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -65,8 +66,36 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 01时41分]"
+        },
+        {
+          "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
+          "url": "https://flash.jin10.com/detail/20260131010558530800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496768",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "time_info": "[01时40分 ~ 01时41分]"
         }
       ]
     }
