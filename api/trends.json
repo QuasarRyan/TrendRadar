@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T13:44:52.989043+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-01-31T14:52:29.519480+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时52分]"
         },
         {
           "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
@@ -96,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时52分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -106,11 +106,12 @@
           "ranks": [
             16,
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时52分]"
         },
         {
           "title": "美股三大指数飘绿 黄金白银深夜暴跌",
@@ -164,8 +165,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时34分 ~ 13时44分]"
+          "appearance_count": 7,
+          "time_info": "[06时34分 ~ 14时52分]"
         },
         {
           "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
@@ -187,11 +188,12 @@
           "ranks": [
             8,
             10,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时52分]"
         },
         {
           "title": "金价",
@@ -202,8 +204,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时52分]"
         },
         {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
@@ -212,11 +214,25 @@
           "ranks": [
             12,
             16,
-            20
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时52分]"
+        },
+        {
+          "title": "金价下跌 多品牌设1-5%退货手续费",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时44分]"
+          "time_info": "[12时40分 ~ 14时52分]"
         },
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -241,18 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 12时40分]"
-        },
-        {
-          "title": "金价下跌 多品牌设1-5%退货手续费",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时44分]"
         },
         {
           "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
