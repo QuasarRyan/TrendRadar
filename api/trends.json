@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T03:27:48.316278+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-02-01T04:34:51.167813+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时34分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -28,21 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时27分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时34分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -55,8 +42,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时34分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时34分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -65,11 +66,37 @@
           "ranks": [
             30,
             2,
-            29
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 04时34分]"
+        },
+        {
+          "title": "金价下跌是否值得入手",
+          "url": "https://www.douyin.com/hot/2385399",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 04时34分]"
+        },
+        {
+          "title": "金价下跌 多品牌设退货手续费",
+          "url": "https://www.douyin.com/hot/2384866",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时27分]"
+          "time_info": "[02时43分 ~ 04时34分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -82,30 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "金价下跌是否值得入手",
-          "url": "https://www.douyin.com/hot/2385399",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时27分]"
-        },
-        {
-          "title": "金价下跌 多品牌设退货手续费",
-          "url": "https://www.douyin.com/hot/2384866",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时27分]"
         }
       ]
     },
@@ -118,11 +121,12 @@
           "url": "https://wallstreetcn.com/livenews/3047705",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时34分]"
         }
       ]
     },
@@ -138,8 +142,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时34分]"
         }
       ]
     }
