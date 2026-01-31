@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T05:31:05.834546+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-01T06:31:41.729593+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -28,22 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时31分]"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            25,
-            13,
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "金价波动",
@@ -56,8 +42,23 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时31分]"
+        },
+        {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            25,
+            13,
+            1,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -66,11 +67,12 @@
           "ranks": [
             26,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 06时31分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -82,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 06时31分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -124,11 +126,12 @@
           "ranks": [
             7,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时31分]"
         }
       ]
     },
@@ -144,8 +147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时31分]"
         }
       ]
     }
