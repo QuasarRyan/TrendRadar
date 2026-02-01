@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T00:39:37.194600+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-02T01:32:19.357016+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时39分"
+          "time_info": "01时32分"
         }
       ]
     }
