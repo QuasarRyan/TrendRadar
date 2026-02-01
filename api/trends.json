@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T02:47:44.533723+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-02-02T03:31:55.896168+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时31分]"
         }
       ]
     }
