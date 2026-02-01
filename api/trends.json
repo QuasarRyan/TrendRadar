@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T17:39:40.707349+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-02-01T18:35:29.760425+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -69,11 +69,12 @@
           "ranks": [
             1,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 18时35分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -201,6 +202,28 @@
           "time_info": "[11时16分 ~ 11时17分]"
         },
         {
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "金价暴跌后顾客排长队出售黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "金价暴跌有柜姐放话退单扣500元",
           "url": "https://www.toutiao.com/trending/7601368996558127146/",
           "source": "今日头条",
@@ -285,11 +308,12 @@
           "ranks": [
             3,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 18时35分]"
         }
       ]
     }
