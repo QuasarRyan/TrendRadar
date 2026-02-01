@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:44:43.737285+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-02-01T16:42:04.083404+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,18 @@
           "time_info": "[00时38分 ~ 07时31分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 16时42分]"
+        },
+        {
           "title": "金价下跌是否值得入手",
           "url": "https://www.douyin.com/hot/2385399",
           "source": "抖音",
@@ -77,18 +89,6 @@
           "time_info": "[01时31分 ~ 07时31分]"
         },
         {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 15时44分]"
-        },
-        {
           "title": "金价下跌 多品牌设退货手续费",
           "url": "https://www.douyin.com/hot/2384866",
           "source": "抖音",
@@ -101,6 +101,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时43分 ~ 07时31分]"
+        },
+        {
+          "title": "金价遭遇过山车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 16时42分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -127,19 +140,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时16分 ~ 15时44分]"
-        },
-        {
-          "title": "金价遭遇过山车",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时44分]"
         },
         {
           "title": "金价大跌 男子斥资20多万买入200克",
@@ -236,11 +236,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
         }
       ]
     },
@@ -281,11 +282,12 @@
           "url": "https://wallstreetcn.com/livenews/3047763",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
         }
       ]
     }
