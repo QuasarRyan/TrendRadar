@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T16:42:04.083404+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-02-01T17:39:40.707349+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 17时39分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -283,11 +284,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 16时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 17时39分]"
         }
       ]
     }
