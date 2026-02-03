@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T18:52:24.012675+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-02-03T19:41:33.303310+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 18时52分]"
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 19时41分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时41分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -162,8 +162,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时41分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -236,7 +236,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
@@ -267,9 +267,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美国经济数据走强 推高美债收益率",
+          "url": "https://flash.jin10.com/detail/20260203190934641800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
@@ -282,11 +293,12 @@
           "url": "https://wallstreetcn.com/livenews/3049050",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时41分]"
         },
         {
           "title": "软银公司宣布，其子公司SaiMemory将与英特尔展开合作，共同推动下一代存储技术的商业化。 该项目计划在2028年3月31日止的财年内（即2027财年）制造出原型产品；并目标在2029财年实现正式商业化。",
