@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T15:04:32.624757+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-02-03T16:50:57.826244+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 15时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 16时50分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -127,8 +127,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 16时50分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -200,6 +200,62 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 07时37分]"
+        },
+        {
+          "title": "黄金两日暴跌后强势回升 分析师：当前价格回归合理区间",
+          "url": "https://flash.jin10.com/detail/20260203163759847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
+          "url": "https://flash.jin10.com/detail/20260203161832959800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
+          "url": "https://flash.jin10.com/detail/20260203161619392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI ChatGPT DeepSeek Gemini Claude",
       "match_count": 1,
       "titles": [
@@ -233,23 +289,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时36分 ~ 13时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 07时37分]"
         }
       ]
     }
