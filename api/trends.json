@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T12:47:05.501498+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-02-04T13:56:35.648836+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "time_info": "[01时04分 ~ 06时38分]"
         },
         {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 13时56分]"
+        },
+        {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
           "url": "https://www.cls.cn/detail/2279540",
           "source": "财联社热门",
@@ -42,17 +53,6 @@
           "time_info": "[01时04分 ~ 10时41分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 12时47分]"
-        },
-        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时56分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -72,19 +72,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 13时56分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时56分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -95,8 +96,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 13时56分]"
         },
         {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
@@ -127,11 +128,12 @@
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时56分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -141,8 +143,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时56分]"
         },
         {
           "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
@@ -316,8 +318,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时56分]"
         },
         {
           "title": "买苹果树发现苹果是插上的报警",
@@ -399,7 +401,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
