@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T10:43:30.684465+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-02-05T12:55:23.231538+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时55分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
@@ -319,7 +319,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -330,7 +330,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
