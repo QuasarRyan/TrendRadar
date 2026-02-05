@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T14:02:41.000476+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-02-05T15:53:54.103222+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 15时53分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
@@ -256,7 +256,7 @@
     },
     {
       "keyword_group": "苹果 Apple",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
@@ -281,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "标普500指数初步收跌0.5%，科技板块跌1.8%，电信板块跌1.7%，可选消费板块跌1.2%，保健、房地产、原材料板块涨超1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.7%，成分股中，AMD初步收跌16.6%，Applovin跌16%，Palantir跌11.6%，美光科技、西部数据、核电股CEG、应用材料、希捷科技至少跌6%，Diamondback Energy则涨3.6%，安进涨8%。 耐克涨5.3%，3M涨5%，迪士尼涨3.1%，苹果涨2.7%，和安静领跑道指成分股，英伟达跌3.3%表现最差。",
