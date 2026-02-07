@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:44:25.479395+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-02-07T13:50:24.713056+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,23 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 12时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 13时50分]"
+        },
+        {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 13时50分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 03时01分]"
-        },
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 12时44分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -63,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 13时50分]"
         },
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -331,11 +332,12 @@
             17,
             19,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 12时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 13时50分]"
         }
       ]
     },
