@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T07:38:30.530990+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-02-08T11:22:05.719130+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 11时22分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -39,6 +40,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 06时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果逆袭中国市场，背后竟是爱马仕橙救场？",
+          "url": "https://wallstreetcn.com/articles/3765230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
         }
       ]
     },
